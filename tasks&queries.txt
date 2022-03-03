@@ -1,0 +1,2 @@
+1. Finding a team with the highest average weight of its batters on a given year(Heaviest Hitters):
+
