@@ -10,3 +10,15 @@ JOIN teams ON batting.team_id = teams.name
 GROUP BY 3
 ORDER BY 1 DESC, 2 DESC;
 
+2. Finding a team with the smallest average height of its batters on a given year(Shortest Sluggers):
+
+SELECT  
+batting.yearid AS "year", 
+ROUND(AVG(people.height), 1) AS "average height",
+teams.name AS "team"
+FROM people
+JOIN batting ON people.playerID = batting.playerid
+JOIN teams ON batting.team_id = teams.id
+GROUP BY 1, 3
+ORDER BY 1 DESC, 2 ASC;
+
