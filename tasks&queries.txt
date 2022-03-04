@@ -32,3 +32,18 @@ FROM salaries
 JOIN teams ON salaries.teamid = teams.teamid
 GROUP BY 1, 2
 ORDER BY 1 DESC, 3 DESC;
+
+4. Finding the team that had the smallest “cost per win” in 2010. Cost per win is determined by the total salary of the team divided by the number of wins in a given year(Most Bang For Their Buck In 2010): 
+
+SELECT 
+salaries.yearid AS "year",
+teams.name AS "team name",
+teams.w AS "number of wins",
+ROUND(SUM(salary) / teams.w) AS "cost per win"
+FROM salaries
+JOIN teams ON salaries.teamid = teams.teamid
+AND
+salaries.yearid = teams.yearid
+WHERE salaries.yearid = 2010
+GROUP BY 1, 2, 3
+ORDER BY 4 ASC;
