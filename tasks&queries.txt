@@ -22,4 +22,13 @@ JOIN teams ON batting.team_id = teams.id
 GROUP BY 1, 3
 ORDER BY 1 DESC, 2 ASC;
 
-3. Finding the team with the largest total salary of all players in a given year.
+3. Finding the team with the largest total salary of all players in a given year(Biggest Spenders):
+
+SELECT 
+salaries.yearid AS "year",
+teams.name AS "team name",
+SUM(salary) AS "total salary"
+FROM salaries
+JOIN teams ON salaries.teamid = teams.teamid
+GROUP BY 1, 2
+ORDER BY 1 DESC, 3 DESC;
