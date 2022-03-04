@@ -47,3 +47,23 @@ salaries.yearid = teams.yearid
 WHERE salaries.yearid = 2010
 GROUP BY 1, 2, 3
 ORDER BY 4 ASC;
+
+5. Finding the pitcher who, in a given year, cost the most money per game in which they were the starting pitcher. The pitcher had to start at least 10 games(Priciest Starter): 
+
+SELECT
+pitching.yearid AS "year",
+people.namegiven AS "player name",
+pitching.gs AS "games started",
+pitching.g AS "games played",
+ROUND(salaries.salary / pitching.g) AS "cost per game"
+FROM pitching
+JOIN salaries ON pitching.playerid = salaries.playerid
+AND pitching.yearid = salaries.yearid
+AND pitching.teamid = salaries.teamid
+JOIN people ON people.playerid = salaries.playerid
+WHERE pitching.gs >= 10
+GROUP BY 1, 2, 3, 4, 5
+ORDER BY 1 DESC, 5 DESC;
+
+Alternative solution:
+
