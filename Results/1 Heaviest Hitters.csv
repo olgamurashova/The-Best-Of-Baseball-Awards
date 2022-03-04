@@ -1,1 +1,2923 @@
-
+year,average weight,team
+2019,215.1,New York Yankees
+2019,214.8,Oakland Athletics
+2019,214.0,Detroit Tigers
+2019,213.8,Colorado Rockies
+2019,213.3,Tampa Bay Rays
+2019,211.6,New York Mets
+2019,211.4,San Francisco Giants
+2019,211.4,Toronto Blue Jays
+2019,211.1,Cincinnati Reds
+2019,211.1,Chicago White Sox
+2019,210.9,Minnesota Twins
+2019,210.3,Cleveland Indians
+2019,209.5,Los Angeles Angels of Anaheim
+2019,209.3,Los Angeles Dodgers
+2019,209.2,Washington Nationals
+2019,209.2,Pittsburgh Pirates
+2019,207.8,Chicago Cubs
+2019,207.8,Baltimore Orioles
+2019,207.4,Milwaukee Brewers
+2019,206.6,Seattle Mariners
+2019,206.5,Kansas City Royals
+2019,205.7,Boston Red Sox
+2019,205.4,Atlanta Braves
+2019,204.9,Philadelphia Phillies
+2019,204.1,San Diego Padres
+2019,203.6,Houston Astros
+2019,203.2,Miami Marlins
+2019,202.9,Texas Rangers
+2019,202.8,Arizona Diamondbacks
+2019,202.7,St. Louis Cardinals
+2018,215.6,Detroit Tigers
+2018,214.7,Colorado Rockies
+2018,214.3,Oakland Athletics
+2018,214.0,Minnesota Twins
+2018,213.9,New York Yankees
+2018,213.8,San Francisco Giants
+2018,213.2,Kansas City Royals
+2018,212.4,Chicago White Sox
+2018,211.6,Los Angeles Dodgers
+2018,211.6,Los Angeles Angels of Anaheim
+2018,211.5,Pittsburgh Pirates
+2018,211.4,Washington Nationals
+2018,211.3,Atlanta Braves
+2018,210.8,Cincinnati Reds
+2018,210.6,Tampa Bay Rays
+2018,210.5,Milwaukee Brewers
+2018,209.6,New York Mets
+2018,209.6,Toronto Blue Jays
+2018,209.5,Cleveland Indians
+2018,209.0,San Diego Padres
+2018,208.6,Houston Astros
+2018,207.8,Seattle Mariners
+2018,207.4,St. Louis Cardinals
+2018,206.5,Chicago Cubs
+2018,206.4,Baltimore Orioles
+2018,206.2,Boston Red Sox
+2018,205.4,Philadelphia Phillies
+2018,204.7,Miami Marlins
+2018,204.5,Texas Rangers
+2018,204.0,Arizona Diamondbacks
+2017,218.0,San Francisco Giants
+2017,215.8,New York Yankees
+2017,215.1,Atlanta Braves
+2017,214.6,Detroit Tigers
+2017,213.9,Cincinnati Reds
+2017,213.8,Los Angeles Angels of Anaheim
+2017,213.5,Colorado Rockies
+2017,212.8,Los Angeles Dodgers
+2017,212.5,Chicago White Sox
+2017,212.3,Minnesota Twins
+2017,212.1,Tampa Bay Rays
+2017,211.9,Kansas City Royals
+2017,211.7,Washington Nationals
+2017,211.6,New York Mets
+2017,210.9,Chicago Cubs
+2017,210.7,Oakland Athletics
+2017,210.5,Miami Marlins
+2017,210.5,Houston Astros
+2017,209.4,Arizona Diamondbacks
+2017,209.0,Pittsburgh Pirates
+2017,208.8,Baltimore Orioles
+2017,208.8,Boston Red Sox
+2017,208.3,Milwaukee Brewers
+2017,208.0,Toronto Blue Jays
+2017,207.5,Philadelphia Phillies
+2017,207.5,St. Louis Cardinals
+2017,205.8,Texas Rangers
+2017,205.2,San Diego Padres
+2017,205.2,Cleveland Indians
+2017,203.9,Seattle Mariners
+2016,219.0,Washington Nationals
+2016,217.6,New York Yankees
+2016,217.5,Detroit Tigers
+2016,215.1,Arizona Diamondbacks
+2016,213.8,Atlanta Braves
+2016,213.7,Cincinnati Reds
+2016,213.4,Miami Marlins
+2016,213.1,Chicago White Sox
+2016,213.0,Los Angeles Dodgers
+2016,212.9,Houston Astros
+2016,212.7,Chicago Cubs
+2016,212.3,New York Mets
+2016,212.0,San Francisco Giants
+2016,211.6,Oakland Athletics
+2016,211.5,Pittsburgh Pirates
+2016,211.4,San Diego Padres
+2016,211.1,Minnesota Twins
+2016,211.1,Los Angeles Angels of Anaheim
+2016,211.0,Texas Rangers
+2016,210.9,Philadelphia Phillies
+2016,210.1,Cleveland Indians
+2016,209.9,Seattle Mariners
+2016,209.8,Milwaukee Brewers
+2016,209.5,St. Louis Cardinals
+2016,209.4,Tampa Bay Rays
+2016,209.4,Toronto Blue Jays
+2016,209.0,Colorado Rockies
+2016,208.8,Kansas City Royals
+2016,207.5,Boston Red Sox
+2016,207.3,Baltimore Orioles
+2015,219.4,Philadelphia Phillies
+2015,218.1,Washington Nationals
+2015,217.1,Detroit Tigers
+2015,216.7,Arizona Diamondbacks
+2015,216.2,Texas Rangers
+2015,215.7,Pittsburgh Pirates
+2015,215.3,Houston Astros
+2015,215.2,St. Louis Cardinals
+2015,215.1,Los Angeles Dodgers
+2015,214.9,Cincinnati Reds
+2015,214.8,New York Yankees
+2015,213.0,Minnesota Twins
+2015,212.7,Atlanta Braves
+2015,212.6,Chicago Cubs
+2015,212.5,Miami Marlins
+2015,212.4,Seattle Mariners
+2015,212.4,Chicago White Sox
+2015,212.3,San Diego Padres
+2015,211.8,New York Mets
+2015,211.5,Kansas City Royals
+2015,211.0,Boston Red Sox
+2015,210.6,Milwaukee Brewers
+2015,209.9,San Francisco Giants
+2015,209.4,Cleveland Indians
+2015,209.1,Tampa Bay Rays
+2015,208.8,Colorado Rockies
+2015,208.2,Baltimore Orioles
+2015,208.0,Oakland Athletics
+2015,207.8,Toronto Blue Jays
+2015,207.3,Los Angeles Angels of Anaheim
+2014,220.9,Chicago White Sox
+2014,218.2,Los Angeles Dodgers
+2014,217.8,Miami Marlins
+2014,217.6,Cincinnati Reds
+2014,217.6,Seattle Mariners
+2014,216.2,Detroit Tigers
+2014,216.0,Pittsburgh Pirates
+2014,215.8,Texas Rangers
+2014,215.2,Philadelphia Phillies
+2014,214.5,Atlanta Braves
+2014,214.4,Washington Nationals
+2014,213.8,Houston Astros
+2014,213.6,San Francisco Giants
+2014,212.8,Oakland Athletics
+2014,212.7,Arizona Diamondbacks
+2014,212.6,Chicago Cubs
+2014,212.3,New York Mets
+2014,212.1,Minnesota Twins
+2014,212.1,New York Yankees
+2014,211.6,San Diego Padres
+2014,211.0,Colorado Rockies
+2014,210.8,St. Louis Cardinals
+2014,210.8,Los Angeles Angels of Anaheim
+2014,210.6,Milwaukee Brewers
+2014,209.7,Boston Red Sox
+2014,209.0,Cleveland Indians
+2014,208.3,Tampa Bay Rays
+2014,208.3,Toronto Blue Jays
+2014,207.4,Kansas City Royals
+2014,206.9,Baltimore Orioles
+2013,218.8,Seattle Mariners
+2013,217.5,Detroit Tigers
+2013,216.7,Cincinnati Reds
+2013,216.6,Miami Marlins
+2013,216.6,Pittsburgh Pirates
+2013,216.4,Chicago White Sox
+2013,214.9,Los Angeles Dodgers
+2013,214.4,Philadelphia Phillies
+2013,214.2,Los Angeles Angels of Anaheim
+2013,214.0,Washington Nationals
+2013,213.9,New York Yankees
+2013,212.6,San Francisco Giants
+2013,212.3,New York Mets
+2013,212.2,Houston Astros
+2013,212.1,Atlanta Braves
+2013,211.9,Arizona Diamondbacks
+2013,211.6,St. Louis Cardinals
+2013,211.4,Minnesota Twins
+2013,211.3,Baltimore Orioles
+2013,211.2,Texas Rangers
+2013,211.2,Toronto Blue Jays
+2013,211.0,Tampa Bay Rays
+2013,210.5,San Diego Padres
+2013,210.5,Chicago Cubs
+2013,210.0,Colorado Rockies
+2013,209.9,Milwaukee Brewers
+2013,209.6,Cleveland Indians
+2013,209.6,Boston Red Sox
+2013,209.2,Oakland Athletics
+2013,206.6,Kansas City Royals
+2012,217.5,Cincinnati Reds
+2012,216.6,Seattle Mariners
+2012,216.3,New York Mets
+2012,215.8,Chicago White Sox
+2012,215.8,San Francisco Giants
+2012,215.7,Miami Marlins
+2012,215.4,Los Angeles Dodgers
+2012,215.0,Washington Nationals
+2012,214.1,Kansas City Royals
+2012,214.0,Los Angeles Angels of Anaheim
+2012,214.0,Arizona Diamondbacks
+2012,213.5,Philadelphia Phillies
+2012,213.4,New York Yankees
+2012,213.1,Houston Astros
+2012,213.1,Oakland Athletics
+2012,212.3,Detroit Tigers
+2012,212.2,Pittsburgh Pirates
+2012,212.0,Texas Rangers
+2012,211.5,Cleveland Indians
+2012,211.3,Boston Red Sox
+2012,211.2,Atlanta Braves
+2012,211.1,Toronto Blue Jays
+2012,210.8,Baltimore Orioles
+2012,210.8,St. Louis Cardinals
+2012,210.4,San Diego Padres
+2012,209.9,Tampa Bay Rays
+2012,209.6,Minnesota Twins
+2012,208.9,Colorado Rockies
+2012,208.8,Chicago Cubs
+2012,207.5,Milwaukee Brewers
+2011,217.8,Seattle Mariners
+2011,217.3,New York Yankees
+2011,217.0,Arizona Diamondbacks
+2011,216.4,Chicago White Sox
+2011,216.3,Cincinnati Reds
+2011,215.4,Washington Nationals
+2011,214.8,Toronto Blue Jays
+2011,214.3,Florida Marlins
+2011,214.2,Detroit Tigers
+2011,214.0,Oakland Athletics
+2011,213.7,Philadelphia Phillies
+2011,213.6,Minnesota Twins
+2011,213.6,Chicago Cubs
+2011,213.6,Kansas City Royals
+2011,213.5,Los Angeles Dodgers
+2011,213.2,New York Mets
+2011,212.6,Pittsburgh Pirates
+2011,212.6,Cleveland Indians
+2011,212.1,San Diego Padres
+2011,212.0,Texas Rangers
+2011,211.8,Colorado Rockies
+2011,211.4,San Francisco Giants
+2011,211.3,Boston Red Sox
+2011,210.9,Houston Astros
+2011,210.8,Baltimore Orioles
+2011,210.6,Los Angeles Angels of Anaheim
+2011,210.0,Tampa Bay Rays
+2011,209.5,St. Louis Cardinals
+2011,208.5,Milwaukee Brewers
+2011,206.9,Atlanta Braves
+2010,217.6,Chicago White Sox
+2010,217.3,New York Yankees
+2010,216.6,Washington Nationals
+2010,215.7,Chicago Cubs
+2010,215.7,Minnesota Twins
+2010,215.1,Cincinnati Reds
+2010,214.7,Texas Rangers
+2010,214.3,Florida Marlins
+2010,213.4,Pittsburgh Pirates
+2010,212.5,Seattle Mariners
+2010,212.2,Toronto Blue Jays
+2010,212.1,Cleveland Indians
+2010,211.8,Baltimore Orioles
+2010,211.7,Los Angeles Dodgers
+2010,211.6,Los Angeles Angels of Anaheim
+2010,211.5,Tampa Bay Rays
+2010,211.5,San Diego Padres
+2010,211.5,Boston Red Sox
+2010,211.0,Milwaukee Brewers
+2010,210.9,Philadelphia Phillies
+2010,210.9,Colorado Rockies
+2010,210.6,Arizona Diamondbacks
+2010,210.1,St. Louis Cardinals
+2010,209.4,Atlanta Braves
+2010,209.4,Oakland Athletics
+2010,209.3,Detroit Tigers
+2010,209.1,Kansas City Royals
+2010,208.5,Houston Astros
+2010,207.7,New York Mets
+2010,206.8,San Francisco Giants
+2009,221.3,Chicago White Sox
+2009,217.5,Texas Rangers
+2009,214.4,Cincinnati Reds
+2009,214.3,New York Yankees
+2009,213.5,Los Angeles Dodgers
+2009,213.0,Oakland Athletics
+2009,212.9,Minnesota Twins
+2009,212.6,Washington Nationals
+2009,212.4,Arizona Diamondbacks
+2009,211.8,Florida Marlins
+2009,211.2,Milwaukee Brewers
+2009,211.2,Seattle Mariners
+2009,210.9,Toronto Blue Jays
+2009,210.5,Kansas City Royals
+2009,210.2,Los Angeles Angels of Anaheim
+2009,210.1,St. Louis Cardinals
+2009,209.8,Cleveland Indians
+2009,209.8,Pittsburgh Pirates
+2009,209.6,Boston Red Sox
+2009,209.5,Baltimore Orioles
+2009,209.1,Detroit Tigers
+2009,208.4,Philadelphia Phillies
+2009,207.9,Atlanta Braves
+2009,207.6,Colorado Rockies
+2009,207.6,Houston Astros
+2009,206.7,San Francisco Giants
+2009,205.8,Chicago Cubs
+2009,205.1,San Diego Padres
+2009,204.6,Tampa Bay Rays
+2009,204.4,New York Mets
+2008,219.7,Chicago White Sox
+2008,218.1,New York Yankees
+2008,217.4,Texas Rangers
+2008,213.5,Seattle Mariners
+2008,213.2,Minnesota Twins
+2008,212.9,Arizona Diamondbacks
+2008,212.6,Florida Marlins
+2008,212.0,Los Angeles Dodgers
+2008,211.1,Washington Nationals
+2008,210.9,Milwaukee Brewers
+2008,210.5,Cincinnati Reds
+2008,210.3,Cleveland Indians
+2008,209.5,Detroit Tigers
+2008,209.1,Kansas City Royals
+2008,209.1,St. Louis Cardinals
+2008,209.0,Los Angeles Angels of Anaheim
+2008,208.9,Pittsburgh Pirates
+2008,208.4,Boston Red Sox
+2008,208.4,Atlanta Braves
+2008,208.4,Chicago Cubs
+2008,207.9,Baltimore Orioles
+2008,206.7,Oakland Athletics
+2008,206.7,Toronto Blue Jays
+2008,206.3,Colorado Rockies
+2008,205.9,Tampa Bay Rays
+2008,204.3,Houston Astros
+2008,202.9,San Diego Padres
+2008,202.6,Philadelphia Phillies
+2008,202.2,New York Mets
+2008,200.3,San Francisco Giants
+2007,219.0,Chicago White Sox
+2007,215.0,New York Yankees
+2007,214.7,Atlanta Braves
+2007,212.6,Texas Rangers
+2007,212.2,Milwaukee Brewers
+2007,211.7,Washington Nationals
+2007,210.1,Pittsburgh Pirates
+2007,209.9,Los Angeles Angels of Anaheim
+2007,209.6,Arizona Diamondbacks
+2007,209.4,Philadelphia Phillies
+2007,209.1,Seattle Mariners
+2007,208.4,Cleveland Indians
+2007,207.9,Minnesota Twins
+2007,207.8,Cincinnati Reds
+2007,207.2,Florida Marlins
+2007,207.1,Los Angeles Dodgers
+2007,206.6,Houston Astros
+2007,206.5,Detroit Tigers
+2007,206.4,Boston Red Sox
+2007,206.2,Chicago Cubs
+2007,206.0,Kansas City Royals
+2007,205.9,San Diego Padres
+2007,204.5,Colorado Rockies
+2007,204.0,Tampa Bay Devil Rays
+2007,203.9,St. Louis Cardinals
+2007,203.8,Baltimore Orioles
+2007,203.8,Toronto Blue Jays
+2007,203.3,Oakland Athletics
+2007,202.3,San Francisco Giants
+2007,199.5,New York Mets
+2006,217.0,Florida Marlins
+2006,213.1,Chicago White Sox
+2006,212.4,Texas Rangers
+2006,211.4,Atlanta Braves
+2006,210.8,Los Angeles Angels of Anaheim
+2006,210.7,Detroit Tigers
+2006,210.6,Cleveland Indians
+2006,210.1,Milwaukee Brewers
+2006,209.4,New York Yankees
+2006,208.5,Pittsburgh Pirates
+2006,208.4,Los Angeles Dodgers
+2006,207.3,Seattle Mariners
+2006,206.7,Minnesota Twins
+2006,206.0,Boston Red Sox
+2006,204.7,Kansas City Royals
+2006,204.2,New York Mets
+2006,204.0,Tampa Bay Devil Rays
+2006,204.0,Houston Astros
+2006,203.9,Arizona Diamondbacks
+2006,203.7,Chicago Cubs
+2006,202.3,St. Louis Cardinals
+2006,202.2,Oakland Athletics
+2006,201.9,Cincinnati Reds
+2006,201.8,Toronto Blue Jays
+2006,201.7,Baltimore Orioles
+2006,201.4,San Diego Padres
+2006,200.3,Colorado Rockies
+2006,199.9,San Francisco Giants
+2006,199.7,Washington Nationals
+2006,199.4,Philadelphia Phillies
+2005,210.3,Texas Rangers
+2005,210.2,Cleveland Indians
+2005,209.7,Milwaukee Brewers
+2005,208.6,Chicago White Sox
+2005,207.2,Atlanta Braves
+2005,207.1,Pittsburgh Pirates
+2005,206.6,Los Angeles Dodgers
+2005,205.5,Detroit Tigers
+2005,205.4,Tampa Bay Devil Rays
+2005,204.9,Florida Marlins
+2005,203.6,Los Angeles Angels of Anaheim
+2005,203.1,Cincinnati Reds
+2005,203.1,Minnesota Twins
+2005,202.9,Seattle Mariners
+2005,202.3,St. Louis Cardinals
+2005,202.2,Chicago Cubs
+2005,202.2,Arizona Diamondbacks
+2005,202.0,Baltimore Orioles
+2005,201.4,Washington Nationals
+2005,201.2,Toronto Blue Jays
+2005,201.0,Kansas City Royals
+2005,200.2,Colorado Rockies
+2005,199.7,New York Mets
+2005,199.3,Boston Red Sox
+2005,199.3,Philadelphia Phillies
+2005,199.2,San Francisco Giants
+2005,198.3,Houston Astros
+2005,198.0,New York Yankees
+2005,197.5,Oakland Athletics
+2005,197.4,San Diego Padres
+2004,207.9,Chicago White Sox
+2004,207.8,Texas Rangers
+2004,206.5,Detroit Tigers
+2004,205.3,Cleveland Indians
+2004,204.7,Minnesota Twins
+2004,204.2,Los Angeles Dodgers
+2004,204.0,Philadelphia Phillies
+2004,203.8,Tampa Bay Devil Rays
+2004,203.2,Montreal Expos
+2004,202.6,Florida Marlins
+2004,201.6,Anaheim Angels
+2004,201.4,Seattle Mariners
+2004,201.3,Colorado Rockies
+2004,201.3,Houston Astros
+2004,200.9,Atlanta Braves
+2004,200.8,San Francisco Giants
+2004,200.5,Cincinnati Reds
+2004,200.1,St. Louis Cardinals
+2004,200.0,Milwaukee Brewers
+2004,199.9,Baltimore Orioles
+2004,199.2,Pittsburgh Pirates
+2004,199.2,Oakland Athletics
+2004,199.2,New York Mets
+2004,198.8,Toronto Blue Jays
+2004,198.6,New York Yankees
+2004,198.2,Arizona Diamondbacks
+2004,197.3,Chicago Cubs
+2004,197.1,Kansas City Royals
+2004,196.6,San Diego Padres
+2004,194.0,Boston Red Sox
+2003,205.7,Philadelphia Phillies
+2003,205.7,Chicago White Sox
+2003,205.1,Florida Marlins
+2003,203.4,Cincinnati Reds
+2003,202.6,Toronto Blue Jays
+2003,202.5,Cleveland Indians
+2003,202.3,Detroit Tigers
+2003,201.7,Minnesota Twins
+2003,200.9,New York Yankees
+2003,200.8,Tampa Bay Devil Rays
+2003,200.5,Texas Rangers
+2003,200.4,Pittsburgh Pirates
+2003,198.9,Montreal Expos
+2003,198.9,Atlanta Braves
+2003,198.9,Arizona Diamondbacks
+2003,198.2,St. Louis Cardinals
+2003,198.2,Kansas City Royals
+2003,197.9,Colorado Rockies
+2003,197.9,San Diego Padres
+2003,197.8,Baltimore Orioles
+2003,197.8,Seattle Mariners
+2003,197.4,Los Angeles Dodgers
+2003,196.2,Oakland Athletics
+2003,196.0,Milwaukee Brewers
+2003,196.0,New York Mets
+2003,195.7,San Francisco Giants
+2003,195.6,Anaheim Angels
+2003,195.2,Chicago Cubs
+2003,195.0,Houston Astros
+2003,194.6,Boston Red Sox
+2002,206.8,Cleveland Indians
+2002,206.1,Chicago White Sox
+2002,203.6,Tampa Bay Devil Rays
+2002,203.2,Texas Rangers
+2002,202.7,Philadelphia Phillies
+2002,202.5,Florida Marlins
+2002,201.8,Minnesota Twins
+2002,201.7,Toronto Blue Jays
+2002,201.5,Colorado Rockies
+2002,200.8,Boston Red Sox
+2002,200.1,Cincinnati Reds
+2002,199.5,St. Louis Cardinals
+2002,199.2,Pittsburgh Pirates
+2002,199.0,Montreal Expos
+2002,198.2,Detroit Tigers
+2002,198.2,Chicago Cubs
+2002,197.9,New York Yankees
+2002,197.3,Milwaukee Brewers
+2002,196.7,Baltimore Orioles
+2002,196.7,Houston Astros
+2002,196.3,Los Angeles Dodgers
+2002,196.1,Oakland Athletics
+2002,196.0,New York Mets
+2002,195.7,Seattle Mariners
+2002,195.5,Atlanta Braves
+2002,195.4,Kansas City Royals
+2002,194.1,Arizona Diamondbacks
+2002,193.9,Anaheim Angels
+2002,192.9,San Diego Padres
+2002,191.7,San Francisco Giants
+2001,205.9,Florida Marlins
+2001,205.3,Cleveland Indians
+2001,204.2,Cincinnati Reds
+2001,203.8,Tampa Bay Devil Rays
+2001,202.6,Minnesota Twins
+2001,202.1,Chicago White Sox
+2001,200.3,Montreal Expos
+2001,199.4,Milwaukee Brewers
+2001,199.0,Seattle Mariners
+2001,198.4,Toronto Blue Jays
+2001,198.4,St. Louis Cardinals
+2001,198.3,Colorado Rockies
+2001,197.5,Texas Rangers
+2001,196.6,Arizona Diamondbacks
+2001,196.5,Houston Astros
+2001,196.4,Oakland Athletics
+2001,196.1,Pittsburgh Pirates
+2001,195.6,New York Yankees
+2001,195.0,Kansas City Royals
+2001,195.0,Baltimore Orioles
+2001,194.6,Boston Red Sox
+2001,194.5,San Francisco Giants
+2001,194.3,Philadelphia Phillies
+2001,193.7,Chicago Cubs
+2001,193.6,Los Angeles Dodgers
+2001,193.4,Anaheim Angels
+2001,192.9,Atlanta Braves
+2001,192.4,San Diego Padres
+2001,190.8,New York Mets
+2001,188.0,Detroit Tigers
+2000,203.2,Florida Marlins
+2000,202.6,Milwaukee Brewers
+2000,200.7,Minnesota Twins
+2000,200.1,Cleveland Indians
+2000,199.9,Chicago White Sox
+2000,199.8,Tampa Bay Devil Rays
+2000,199.5,Seattle Mariners
+2000,198.9,Montreal Expos
+2000,198.3,Cincinnati Reds
+2000,197.2,Oakland Athletics
+2000,195.7,Kansas City Royals
+2000,195.7,Houston Astros
+2000,195.4,Atlanta Braves
+2000,195.3,St. Louis Cardinals
+2000,194.5,Chicago Cubs
+2000,194.3,Toronto Blue Jays
+2000,194.3,New York Yankees
+2000,193.9,Pittsburgh Pirates
+2000,193.6,San Diego Padres
+2000,193.2,Baltimore Orioles
+2000,192.8,San Francisco Giants
+2000,192.8,Colorado Rockies
+2000,192.7,Texas Rangers
+2000,192.7,Arizona Diamondbacks
+2000,191.9,Boston Red Sox
+2000,191.7,New York Mets
+2000,191.4,Anaheim Angels
+2000,190.9,Detroit Tigers
+2000,190.2,Philadelphia Phillies
+2000,187.6,Los Angeles Dodgers
+1999,201.8,Milwaukee Brewers
+1999,201.6,Cincinnati Reds
+1999,199.5,Baltimore Orioles
+1999,199.3,Pittsburgh Pirates
+1999,199.0,New York Yankees
+1999,198.8,Tampa Bay Devil Rays
+1999,198.2,Chicago White Sox
+1999,198.0,Florida Marlins
+1999,197.7,Cleveland Indians
+1999,197.1,Minnesota Twins
+1999,196.2,Atlanta Braves
+1999,196.0,Montreal Expos
+1999,195.9,Kansas City Royals
+1999,195.9,Houston Astros
+1999,195.8,Chicago Cubs
+1999,195.8,Arizona Diamondbacks
+1999,194.9,Toronto Blue Jays
+1999,194.5,Oakland Athletics
+1999,194.1,St. Louis Cardinals
+1999,193.5,Seattle Mariners
+1999,193.0,Philadelphia Phillies
+1999,192.2,New York Mets
+1999,191.0,Colorado Rockies
+1999,189.7,Anaheim Angels
+1999,188.8,Boston Red Sox
+1999,188.7,Los Angeles Dodgers
+1999,188.5,Detroit Tigers
+1999,188.3,San Francisco Giants
+1999,187.6,Texas Rangers
+1999,187.3,San Diego Padres
+1998,199.1,Minnesota Twins
+1998,198.1,Cleveland Indians
+1998,197.7,Milwaukee Brewers
+1998,197.5,Cincinnati Reds
+1998,197.1,Houston Astros
+1998,196.5,New York Yankees
+1998,195.8,Florida Marlins
+1998,194.9,Tampa Bay Devil Rays
+1998,194.7,Chicago White Sox
+1998,194.6,Oakland Athletics
+1998,194.1,Chicago Cubs
+1998,194.0,Philadelphia Phillies
+1998,193.9,Pittsburgh Pirates
+1998,193.8,Los Angeles Dodgers
+1998,193.4,Baltimore Orioles
+1998,193.2,Toronto Blue Jays
+1998,193.0,Montreal Expos
+1998,192.5,New York Mets
+1998,192.4,Atlanta Braves
+1998,192.4,Arizona Diamondbacks
+1998,192.0,Colorado Rockies
+1998,191.8,Kansas City Royals
+1998,191.7,Anaheim Angels
+1998,191.5,Seattle Mariners
+1998,191.3,St. Louis Cardinals
+1998,191.1,Detroit Tigers
+1998,190.6,Texas Rangers
+1998,189.4,Boston Red Sox
+1998,189.2,San Diego Padres
+1998,186.1,San Francisco Giants
+1997,197.9,Oakland Athletics
+1997,197.5,Florida Marlins
+1997,196.9,Minnesota Twins
+1997,196.3,Pittsburgh Pirates
+1997,195.2,New York Yankees
+1997,194.9,Colorado Rockies
+1997,194.2,Cleveland Indians
+1997,193.9,Milwaukee Brewers
+1997,192.8,Cincinnati Reds
+1997,192.7,Philadelphia Phillies
+1997,192.6,Boston Red Sox
+1997,192.3,Chicago White Sox
+1997,192.2,San Diego Padres
+1997,192.1,Baltimore Orioles
+1997,192.0,Houston Astros
+1997,191.9,St. Louis Cardinals
+1997,191.3,Chicago Cubs
+1997,190.7,Detroit Tigers
+1997,190.6,Montreal Expos
+1997,190.4,Los Angeles Dodgers
+1997,190.1,Toronto Blue Jays
+1997,189.5,San Francisco Giants
+1997,188.9,Atlanta Braves
+1997,188.7,Kansas City Royals
+1997,187.8,Texas Rangers
+1997,187.2,Seattle Mariners
+1997,186.6,Anaheim Angels
+1997,186.2,New York Mets
+1996,195.9,Cincinnati Reds
+1996,195.2,Toronto Blue Jays
+1996,194.1,Milwaukee Brewers
+1996,194.0,Oakland Athletics
+1996,193.3,Houston Astros
+1996,193.2,Pittsburgh Pirates
+1996,193.1,San Diego Padres
+1996,193.0,Baltimore Orioles
+1996,192.6,Montreal Expos
+1996,192.5,Colorado Rockies
+1996,191.9,Seattle Mariners
+1996,191.7,San Francisco Giants
+1996,191.6,Florida Marlins
+1996,191.5,Philadelphia Phillies
+1996,191.2,Minnesota Twins
+1996,191.0,New York Yankees
+1996,190.9,Chicago White Sox
+1996,190.9,Boston Red Sox
+1996,190.6,California Angels
+1996,190.4,St. Louis Cardinals
+1996,190.4,Chicago Cubs
+1996,190.2,Los Angeles Dodgers
+1996,189.8,Detroit Tigers
+1996,189.7,Texas Rangers
+1996,189.4,Atlanta Braves
+1996,189.3,Kansas City Royals
+1996,188.9,New York Mets
+1996,187.6,Cleveland Indians
+1995,198.0,Pittsburgh Pirates
+1995,194.9,Toronto Blue Jays
+1995,193.4,Boston Red Sox
+1995,193.4,Cleveland Indians
+1995,193.4,Milwaukee Brewers
+1995,192.7,Minnesota Twins
+1995,192.5,Chicago White Sox
+1995,192.2,Seattle Mariners
+1995,192.2,San Diego Padres
+1995,191.2,Philadelphia Phillies
+1995,190.3,Colorado Rockies
+1995,190.1,Texas Rangers
+1995,189.8,Chicago Cubs
+1995,189.8,New York Mets
+1995,189.7,Oakland Athletics
+1995,189.6,Baltimore Orioles
+1995,189.6,California Angels
+1995,189.5,Florida Marlins
+1995,189.5,Cincinnati Reds
+1995,189.5,Atlanta Braves
+1995,188.5,Detroit Tigers
+1995,187.8,Montreal Expos
+1995,187.7,Houston Astros
+1995,187.5,Los Angeles Dodgers
+1995,187.5,New York Yankees
+1995,187.0,San Francisco Giants
+1995,186.7,Kansas City Royals
+1995,186.5,St. Louis Cardinals
+1994,195.0,Toronto Blue Jays
+1994,194.4,Cleveland Indians
+1994,194.0,Minnesota Twins
+1994,194.0,Pittsburgh Pirates
+1994,193.5,Colorado Rockies
+1994,193.5,Seattle Mariners
+1994,193.0,Philadelphia Phillies
+1994,192.9,Cincinnati Reds
+1994,192.4,California Angels
+1994,191.0,Boston Red Sox
+1994,190.8,San Diego Padres
+1994,190.5,Texas Rangers
+1994,190.3,Detroit Tigers
+1994,189.5,Milwaukee Brewers
+1994,189.1,Oakland Athletics
+1994,188.8,Chicago Cubs
+1994,188.5,Chicago White Sox
+1994,188.3,Atlanta Braves
+1994,188.1,Baltimore Orioles
+1994,187.8,Montreal Expos
+1994,187.7,New York Mets
+1994,187.7,Florida Marlins
+1994,187.4,Houston Astros
+1994,187.0,St. Louis Cardinals
+1994,187.0,Los Angeles Dodgers
+1994,186.6,New York Yankees
+1994,185.0,San Francisco Giants
+1994,182.7,Kansas City Royals
+1993,195.3,Seattle Mariners
+1993,195.0,Cleveland Indians
+1993,194.8,Colorado Rockies
+1993,194.4,Minnesota Twins
+1993,192.7,Chicago White Sox
+1993,192.6,Cincinnati Reds
+1993,192.5,Oakland Athletics
+1993,192.0,Pittsburgh Pirates
+1993,191.8,Detroit Tigers
+1993,191.8,Philadelphia Phillies
+1993,190.7,St. Louis Cardinals
+1993,190.6,San Diego Padres
+1993,190.6,Montreal Expos
+1993,190.5,New York Yankees
+1993,190.5,Toronto Blue Jays
+1993,190.4,Atlanta Braves
+1993,190.1,Houston Astros
+1993,190.1,Boston Red Sox
+1993,190.0,Texas Rangers
+1993,188.7,Baltimore Orioles
+1993,187.9,Florida Marlins
+1993,187.8,California Angels
+1993,187.3,San Francisco Giants
+1993,187.1,Los Angeles Dodgers
+1993,186.9,Milwaukee Brewers
+1993,186.9,New York Mets
+1993,186.4,Chicago Cubs
+1993,186.1,Kansas City Royals
+1992,195.1,Milwaukee Brewers
+1992,193.6,Pittsburgh Pirates
+1992,192.6,Toronto Blue Jays
+1992,191.5,Seattle Mariners
+1992,191.4,Montreal Expos
+1992,191.2,Philadelphia Phillies
+1992,190.6,New York Yankees
+1992,190.5,Oakland Athletics
+1992,190.3,Cleveland Indians
+1992,190.3,Detroit Tigers
+1992,189.9,St. Louis Cardinals
+1992,189.4,San Diego Padres
+1992,189.0,Texas Rangers
+1992,188.9,Cincinnati Reds
+1992,188.7,Baltimore Orioles
+1992,188.6,Atlanta Braves
+1992,188.4,Minnesota Twins
+1992,188.4,Chicago White Sox
+1992,187.9,Houston Astros
+1992,187.8,Chicago Cubs
+1992,187.6,Boston Red Sox
+1992,187.0,San Francisco Giants
+1992,187.0,Los Angeles Dodgers
+1992,186.4,New York Mets
+1992,185.9,California Angels
+1992,184.1,Kansas City Royals
+1991,194.1,Milwaukee Brewers
+1991,193.1,Cincinnati Reds
+1991,191.9,Toronto Blue Jays
+1991,191.0,Detroit Tigers
+1991,190.9,Seattle Mariners
+1991,190.4,Oakland Athletics
+1991,189.9,New York Yankees
+1991,189.5,Los Angeles Dodgers
+1991,189.3,Cleveland Indians
+1991,189.0,Baltimore Orioles
+1991,188.9,Minnesota Twins
+1991,188.8,Houston Astros
+1991,188.5,California Angels
+1991,188.1,Chicago White Sox
+1991,187.9,Boston Red Sox
+1991,187.9,San Diego Padres
+1991,187.6,Philadelphia Phillies
+1991,187.6,Chicago Cubs
+1991,187.5,Pittsburgh Pirates
+1991,187.4,Atlanta Braves
+1991,187.0,Kansas City Royals
+1991,186.9,St. Louis Cardinals
+1991,186.8,Montreal Expos
+1991,186.7,Texas Rangers
+1991,186.1,San Francisco Giants
+1991,184.8,New York Mets
+1990,192.9,Cincinnati Reds
+1990,192.7,New York Yankees
+1990,191.3,San Diego Padres
+1990,191.0,Houston Astros
+1990,189.9,Chicago White Sox
+1990,189.8,Milwaukee Brewers
+1990,189.6,Detroit Tigers
+1990,189.6,Oakland Athletics
+1990,188.9,San Francisco Giants
+1990,188.7,Seattle Mariners
+1990,188.4,Toronto Blue Jays
+1990,188.3,Atlanta Braves
+1990,188.0,Los Angeles Dodgers
+1990,187.5,Philadelphia Phillies
+1990,187.5,Minnesota Twins
+1990,187.3,California Angels
+1990,187.0,St. Louis Cardinals
+1990,187.0,Boston Red Sox
+1990,186.9,Baltimore Orioles
+1990,186.7,Cleveland Indians
+1990,186.5,Texas Rangers
+1990,186.0,Kansas City Royals
+1990,185.8,Montreal Expos
+1990,185.5,Pittsburgh Pirates
+1990,185.2,Chicago Cubs
+1990,183.7,New York Mets
+1989,194.1,Oakland Athletics
+1989,193.4,New York Yankees
+1989,192.6,Milwaukee Brewers
+1989,191.0,San Francisco Giants
+1989,190.5,San Diego Padres
+1989,190.2,Cincinnati Reds
+1989,189.7,Los Angeles Dodgers
+1989,188.7,Cleveland Indians
+1989,188.5,Atlanta Braves
+1989,188.2,California Angels
+1989,188.0,Chicago White Sox
+1989,187.8,Baltimore Orioles
+1989,187.7,Kansas City Royals
+1989,187.6,Seattle Mariners
+1989,187.5,Boston Red Sox
+1989,187.1,Houston Astros
+1989,187.0,Toronto Blue Jays
+1989,186.9,St. Louis Cardinals
+1989,186.5,Minnesota Twins
+1989,186.4,Texas Rangers
+1989,185.8,Montreal Expos
+1989,184.4,Philadelphia Phillies
+1989,184.2,Detroit Tigers
+1989,184.1,Pittsburgh Pirates
+1989,183.9,Chicago Cubs
+1989,183.9,New York Mets
+1988,192.5,Los Angeles Dodgers
+1988,191.7,Milwaukee Brewers
+1988,191.6,New York Yankees
+1988,191.4,Oakland Athletics
+1988,190.3,Cincinnati Reds
+1988,189.3,Boston Red Sox
+1988,189.3,Chicago White Sox
+1988,189.1,San Francisco Giants
+1988,188.7,Seattle Mariners
+1988,188.5,Minnesota Twins
+1988,187.8,California Angels
+1988,187.3,Philadelphia Phillies
+1988,187.3,Baltimore Orioles
+1988,187.2,San Diego Padres
+1988,186.9,Houston Astros
+1988,186.8,New York Mets
+1988,186.5,Texas Rangers
+1988,185.9,Pittsburgh Pirates
+1988,185.8,Chicago Cubs
+1988,185.6,St. Louis Cardinals
+1988,185.5,Toronto Blue Jays
+1988,184.8,Kansas City Royals
+1988,184.7,Cleveland Indians
+1988,184.0,Atlanta Braves
+1988,183.9,Detroit Tigers
+1988,183.0,Montreal Expos
+1987,191.2,New York Yankees
+1987,191.1,Milwaukee Brewers
+1987,190.3,Los Angeles Dodgers
+1987,189.5,Minnesota Twins
+1987,189.3,San Francisco Giants
+1987,189.3,Seattle Mariners
+1987,189.2,Boston Red Sox
+1987,189.2,Chicago White Sox
+1987,188.1,Cleveland Indians
+1987,187.8,Cincinnati Reds
+1987,187.7,Oakland Athletics
+1987,186.9,San Diego Padres
+1987,186.8,California Angels
+1987,186.7,New York Mets
+1987,186.2,Toronto Blue Jays
+1987,186.1,Kansas City Royals
+1987,186.0,Texas Rangers
+1987,185.8,Chicago Cubs
+1987,185.5,Philadelphia Phillies
+1987,185.2,Montreal Expos
+1987,185.0,St. Louis Cardinals
+1987,184.4,Houston Astros
+1987,184.0,Baltimore Orioles
+1987,183.8,Pittsburgh Pirates
+1987,183.8,Atlanta Braves
+1987,183.4,Detroit Tigers
+1986,192.4,Seattle Mariners
+1986,189.4,Oakland Athletics
+1986,189.1,Cincinnati Reds
+1986,189.0,Chicago White Sox
+1986,188.8,Boston Red Sox
+1986,188.7,Milwaukee Brewers
+1986,188.7,New York Yankees
+1986,188.6,Toronto Blue Jays
+1986,188.5,San Diego Padres
+1986,188.4,Minnesota Twins
+1986,188.3,Detroit Tigers
+1986,187.5,New York Mets
+1986,187.4,San Francisco Giants
+1986,187.4,Pittsburgh Pirates
+1986,187.2,California Angels
+1986,186.7,Los Angeles Dodgers
+1986,186.7,Atlanta Braves
+1986,186.7,Houston Astros
+1986,186.2,Chicago Cubs
+1986,186.2,Texas Rangers
+1986,186.0,Cleveland Indians
+1986,185.7,Philadelphia Phillies
+1986,185.7,Kansas City Royals
+1986,184.4,Montreal Expos
+1986,184.0,St. Louis Cardinals
+1986,183.1,Baltimore Orioles
+1985,191.2,Seattle Mariners
+1985,190.8,Minnesota Twins
+1985,190.8,Toronto Blue Jays
+1985,190.4,New York Mets
+1985,188.8,Montreal Expos
+1985,188.2,Cincinnati Reds
+1985,188.0,Houston Astros
+1985,187.7,Cleveland Indians
+1985,187.7,Chicago White Sox
+1985,187.5,Oakland Athletics
+1985,187.5,Los Angeles Dodgers
+1985,187.4,New York Yankees
+1985,187.1,Pittsburgh Pirates
+1985,187.1,Atlanta Braves
+1985,186.9,San Francisco Giants
+1985,186.7,Boston Red Sox
+1985,186.4,Milwaukee Brewers
+1985,186.1,San Diego Padres
+1985,186.0,Texas Rangers
+1985,185.8,Chicago Cubs
+1985,185.8,Detroit Tigers
+1985,185.5,Philadelphia Phillies
+1985,184.9,California Angels
+1985,184.6,Baltimore Orioles
+1985,184.1,St. Louis Cardinals
+1985,184.0,Kansas City Royals
+1984,193.0,Seattle Mariners
+1984,191.1,New York Mets
+1984,190.5,Chicago White Sox
+1984,190.0,Los Angeles Dodgers
+1984,188.9,Boston Red Sox
+1984,188.8,Minnesota Twins
+1984,188.2,Toronto Blue Jays
+1984,187.6,Chicago Cubs
+1984,187.5,Pittsburgh Pirates
+1984,187.3,New York Yankees
+1984,187.0,San Francisco Giants
+1984,187.0,Cincinnati Reds
+1984,186.6,Milwaukee Brewers
+1984,186.4,Texas Rangers
+1984,186.4,Baltimore Orioles
+1984,186.3,Cleveland Indians
+1984,186.3,Detroit Tigers
+1984,186.1,San Diego Padres
+1984,185.7,Kansas City Royals
+1984,185.5,Montreal Expos
+1984,185.3,Philadelphia Phillies
+1984,185.2,Oakland Athletics
+1984,185.2,St. Louis Cardinals
+1984,184.4,California Angels
+1984,183.9,Atlanta Braves
+1984,183.3,Houston Astros
+1983,190.8,Seattle Mariners
+1983,189.2,Los Angeles Dodgers
+1983,188.9,New York Mets
+1983,188.8,Toronto Blue Jays
+1983,188.4,Pittsburgh Pirates
+1983,188.3,Chicago White Sox
+1983,187.8,Chicago Cubs
+1983,187.7,Detroit Tigers
+1983,187.7,Kansas City Royals
+1983,187.4,Minnesota Twins
+1983,186.6,Cleveland Indians
+1983,186.6,Oakland Athletics
+1983,186.6,San Diego Padres
+1983,186.4,San Francisco Giants
+1983,186.2,Milwaukee Brewers
+1983,186.1,California Angels
+1983,186.1,Cincinnati Reds
+1983,186.0,Montreal Expos
+1983,185.7,Baltimore Orioles
+1983,185.1,Atlanta Braves
+1983,184.9,Texas Rangers
+1983,184.5,Philadelphia Phillies
+1983,184.5,St. Louis Cardinals
+1983,183.6,Boston Red Sox
+1983,183.4,New York Yankees
+1983,183.3,Houston Astros
+1982,191.5,Toronto Blue Jays
+1982,189.7,Seattle Mariners
+1982,189.6,New York Mets
+1982,188.8,Cleveland Indians
+1982,188.5,Chicago White Sox
+1982,188.4,Minnesota Twins
+1982,188.4,Pittsburgh Pirates
+1982,188.3,Boston Red Sox
+1982,188.1,Oakland Athletics
+1982,187.9,San Francisco Giants
+1982,187.6,Texas Rangers
+1982,187.3,Los Angeles Dodgers
+1982,187.3,Detroit Tigers
+1982,187.0,Philadelphia Phillies
+1982,186.8,New York Yankees
+1982,185.9,Kansas City Royals
+1982,185.9,Montreal Expos
+1982,185.9,Baltimore Orioles
+1982,185.6,Milwaukee Brewers
+1982,184.7,Chicago Cubs
+1982,184.5,California Angels
+1982,183.9,Cincinnati Reds
+1982,183.9,St. Louis Cardinals
+1982,182.8,Houston Astros
+1982,182.1,San Diego Padres
+1982,181.8,Atlanta Braves
+1981,191.5,Toronto Blue Jays
+1981,189.8,Seattle Mariners
+1981,187.9,Kansas City Royals
+1981,187.9,Oakland Athletics
+1981,187.8,Pittsburgh Pirates
+1981,187.6,Minnesota Twins
+1981,187.6,Texas Rangers
+1981,187.5,Chicago Cubs
+1981,187.4,Chicago White Sox
+1981,187.2,San Francisco Giants
+1981,187.1,New York Yankees
+1981,187.0,Los Angeles Dodgers
+1981,186.9,Montreal Expos
+1981,186.9,Cleveland Indians
+1981,186.3,Detroit Tigers
+1981,186.3,Boston Red Sox
+1981,186.0,California Angels
+1981,185.4,New York Mets
+1981,185.3,Baltimore Orioles
+1981,184.2,Cincinnati Reds
+1981,184.2,Milwaukee Brewers
+1981,183.7,Houston Astros
+1981,183.7,Philadelphia Phillies
+1981,182.9,St. Louis Cardinals
+1981,182.0,Atlanta Braves
+1981,181.9,San Diego Padres
+1980,192.6,California Angels
+1980,190.5,Pittsburgh Pirates
+1980,190.4,Toronto Blue Jays
+1980,189.6,Chicago Cubs
+1980,189.5,St. Louis Cardinals
+1980,188.9,Texas Rangers
+1980,188.6,Baltimore Orioles
+1980,188.3,San Francisco Giants
+1980,187.8,Oakland Athletics
+1980,187.7,Seattle Mariners
+1980,186.5,Cleveland Indians
+1980,186.4,Montreal Expos
+1980,185.7,Detroit Tigers
+1980,185.3,Chicago White Sox
+1980,184.9,San Diego Padres
+1980,184.7,Kansas City Royals
+1980,184.5,Philadelphia Phillies
+1980,184.0,Houston Astros
+1980,183.7,Atlanta Braves
+1980,183.6,Milwaukee Brewers
+1980,183.6,Boston Red Sox
+1980,183.5,Cincinnati Reds
+1980,182.9,Minnesota Twins
+1980,182.8,Los Angeles Dodgers
+1980,182.7,New York Mets
+1980,181.6,New York Yankees
+1979,189.9,California Angels
+1979,189.5,Cleveland Indians
+1979,189.1,Houston Astros
+1979,188.7,St. Louis Cardinals
+1979,188.7,Pittsburgh Pirates
+1979,188.3,Texas Rangers
+1979,187.6,Montreal Expos
+1979,187.6,Baltimore Orioles
+1979,187.5,Toronto Blue Jays
+1979,187.4,San Francisco Giants
+1979,187.4,Chicago White Sox
+1979,186.9,Minnesota Twins
+1979,186.8,Los Angeles Dodgers
+1979,186.1,San Diego Padres
+1979,185.9,Boston Red Sox
+1979,185.8,Oakland Athletics
+1979,185.7,Seattle Mariners
+1979,185.6,Chicago Cubs
+1979,185.4,Atlanta Braves
+1979,185.1,New York Mets
+1979,184.8,New York Yankees
+1979,184.7,Detroit Tigers
+1979,184.5,Milwaukee Brewers
+1979,184.4,Kansas City Royals
+1979,183.9,Philadelphia Phillies
+1979,179.0,Cincinnati Reds
+1978,189.5,Toronto Blue Jays
+1978,188.6,Pittsburgh Pirates
+1978,188.3,California Angels
+1978,187.9,Baltimore Orioles
+1978,187.4,Kansas City Royals
+1978,187.2,San Diego Padres
+1978,187.1,Detroit Tigers
+1978,187.0,Boston Red Sox
+1978,187.0,Texas Rangers
+1978,186.7,Oakland Athletics
+1978,186.3,New York Mets
+1978,186.3,Chicago White Sox
+1978,186.2,St. Louis Cardinals
+1978,186.1,San Francisco Giants
+1978,185.9,Houston Astros
+1978,185.8,Seattle Mariners
+1978,185.7,Montreal Expos
+1978,185.1,Philadelphia Phillies
+1978,184.9,Cleveland Indians
+1978,184.6,Chicago Cubs
+1978,184.4,Los Angeles Dodgers
+1978,184.0,Milwaukee Brewers
+1978,183.5,Minnesota Twins
+1978,183.4,Atlanta Braves
+1978,182.6,New York Yankees
+1978,180.4,Cincinnati Reds
+1977,191.0,San Diego Padres
+1977,189.8,Cleveland Indians
+1977,189.2,Toronto Blue Jays
+1977,188.8,Oakland Athletics
+1977,188.6,Houston Astros
+1977,187.8,Minnesota Twins
+1977,187.4,Texas Rangers
+1977,186.6,California Angels
+1977,186.6,San Francisco Giants
+1977,186.5,Philadelphia Phillies
+1977,186.2,Chicago White Sox
+1977,186.2,New York Mets
+1977,186.2,Chicago Cubs
+1977,186.1,Seattle Mariners
+1977,185.8,Boston Red Sox
+1977,185.6,Baltimore Orioles
+1977,185.4,Atlanta Braves
+1977,185.2,Kansas City Royals
+1977,184.9,Montreal Expos
+1977,184.9,Pittsburgh Pirates
+1977,184.2,Detroit Tigers
+1977,183.8,New York Yankees
+1977,183.2,Los Angeles Dodgers
+1977,181.8,Cincinnati Reds
+1977,181.6,Milwaukee Brewers
+1977,181.5,St. Louis Cardinals
+1976,191.1,Cleveland Indians
+1976,189.2,Texas Rangers
+1976,188.6,Montreal Expos
+1976,187.2,Philadelphia Phillies
+1976,186.8,Chicago Cubs
+1976,186.8,California Angels
+1976,186.7,Pittsburgh Pirates
+1976,186.6,Boston Red Sox
+1976,186.6,San Diego Padres
+1976,186.5,Oakland Athletics
+1976,186.3,Detroit Tigers
+1976,185.7,Chicago White Sox
+1976,185.2,Minnesota Twins
+1976,185.1,Kansas City Royals
+1976,184.9,Houston Astros
+1976,184.2,Los Angeles Dodgers
+1976,183.7,Atlanta Braves
+1976,183.6,Milwaukee Brewers
+1976,183.5,San Francisco Giants
+1976,182.9,St. Louis Cardinals
+1976,182.6,New York Mets
+1976,182.1,Baltimore Orioles
+1976,180.3,New York Yankees
+1976,179.8,Cincinnati Reds
+1975,191.2,Cleveland Indians
+1975,188.6,Chicago White Sox
+1975,188.4,Philadelphia Phillies
+1975,187.9,Minnesota Twins
+1975,187.8,Detroit Tigers
+1975,187.4,Pittsburgh Pirates
+1975,187.2,Montreal Expos
+1975,187.2,Kansas City Royals
+1975,186.4,Houston Astros
+1975,186.1,Baltimore Orioles
+1975,186.1,Texas Rangers
+1975,185.8,San Diego Padres
+1975,185.5,Chicago Cubs
+1975,185.4,New York Mets
+1975,183.9,Milwaukee Brewers
+1975,183.7,Los Angeles Dodgers
+1975,183.2,California Angels
+1975,183.0,New York Yankees
+1975,182.3,San Francisco Giants
+1975,182.0,Oakland Athletics
+1975,181.9,Atlanta Braves
+1975,181.8,Boston Red Sox
+1975,180.9,St. Louis Cardinals
+1975,178.8,Cincinnati Reds
+1974,190.0,Detroit Tigers
+1974,189.6,Houston Astros
+1974,188.1,Texas Rangers
+1974,187.2,Cleveland Indians
+1974,186.8,Baltimore Orioles
+1974,186.6,Philadelphia Phillies
+1974,186.6,San Francisco Giants
+1974,186.5,Kansas City Royals
+1974,186.3,Montreal Expos
+1974,186.2,Minnesota Twins
+1974,185.8,New York Yankees
+1974,185.4,Pittsburgh Pirates
+1974,185.3,New York Mets
+1974,184.8,Chicago Cubs
+1974,183.8,Chicago White Sox
+1974,183.7,Milwaukee Brewers
+1974,183.6,Oakland Athletics
+1974,183.6,San Diego Padres
+1974,182.8,Boston Red Sox
+1974,182.7,Los Angeles Dodgers
+1974,181.9,California Angels
+1974,181.9,Cincinnati Reds
+1974,181.0,Atlanta Braves
+1974,180.7,St. Louis Cardinals
+1973,191.4,Texas Rangers
+1973,191.3,Houston Astros
+1973,190.2,Detroit Tigers
+1973,188.1,Kansas City Royals
+1973,187.1,Philadelphia Phillies
+1973,186.6,Cleveland Indians
+1973,186.6,Minnesota Twins
+1973,186.5,Chicago White Sox
+1973,186.4,Chicago Cubs
+1973,185.3,Milwaukee Brewers
+1973,184.9,Atlanta Braves
+1973,184.8,Pittsburgh Pirates
+1973,184.7,San Francisco Giants
+1973,184.1,California Angels
+1973,184.1,Oakland Athletics
+1973,183.7,New York Yankees
+1973,183.0,Baltimore Orioles
+1973,182.9,New York Mets
+1973,182.9,Boston Red Sox
+1973,182.3,Los Angeles Dodgers
+1973,181.8,Montreal Expos
+1973,181.5,Cincinnati Reds
+1973,181.3,St. Louis Cardinals
+1973,181.0,San Diego Padres
+1972,191.0,Houston Astros
+1972,190.7,Philadelphia Phillies
+1972,189.3,Detroit Tigers
+1972,189.0,Kansas City Royals
+1972,188.5,Minnesota Twins
+1972,187.6,Atlanta Braves
+1972,186.9,Texas Rangers
+1972,186.3,Cleveland Indians
+1972,185.8,New York Yankees
+1972,185.6,Montreal Expos
+1972,185.4,San Francisco Giants
+1972,184.8,San Diego Padres
+1972,184.7,Chicago Cubs
+1972,184.2,Oakland Athletics
+1972,184.1,Boston Red Sox
+1972,184.1,Milwaukee Brewers
+1972,184.1,Los Angeles Dodgers
+1972,184.1,Chicago White Sox
+1972,183.4,New York Mets
+1972,183.3,St. Louis Cardinals
+1972,182.9,Cincinnati Reds
+1972,182.8,Pittsburgh Pirates
+1972,182.8,California Angels
+1972,180.1,Baltimore Orioles
+1971,189.7,Houston Astros
+1971,189.5,Washington Senators
+1971,189.5,Kansas City Royals
+1971,188.9,Minnesota Twins
+1971,187.8,Philadelphia Phillies
+1971,187.4,Oakland Athletics
+1971,187.3,Montreal Expos
+1971,187.3,Detroit Tigers
+1971,186.2,Chicago White Sox
+1971,186.1,Atlanta Braves
+1971,185.9,New York Yankees
+1971,185.8,California Angels
+1971,185.2,San Francisco Giants
+1971,184.9,St. Louis Cardinals
+1971,184.8,Los Angeles Dodgers
+1971,184.3,New York Mets
+1971,184.3,Chicago Cubs
+1971,184.2,Cincinnati Reds
+1971,183.9,Milwaukee Brewers
+1971,183.6,Boston Red Sox
+1971,183.6,San Diego Padres
+1971,182.6,Cleveland Indians
+1971,182.3,Pittsburgh Pirates
+1971,178.8,Baltimore Orioles
+1970,190.7,Washington Senators
+1970,190.4,Houston Astros
+1970,189.4,Detroit Tigers
+1970,188.8,Minnesota Twins
+1970,188.2,Atlanta Braves
+1970,187.6,Kansas City Royals
+1970,187.2,Philadelphia Phillies
+1970,186.3,Boston Red Sox
+1970,186.0,New York Mets
+1970,185.9,Milwaukee Brewers
+1970,185.9,California Angels
+1970,185.7,Chicago White Sox
+1970,184.9,San Diego Padres
+1970,184.9,New York Yankees
+1970,184.8,Chicago Cubs
+1970,184.5,Cleveland Indians
+1970,184.4,St. Louis Cardinals
+1970,183.9,Oakland Athletics
+1970,183.6,Pittsburgh Pirates
+1970,183.1,San Francisco Giants
+1970,183.0,Montreal Expos
+1970,182.9,Los Angeles Dodgers
+1970,182.8,Cincinnati Reds
+1970,180.7,Baltimore Orioles
+1969,189.8,Washington Senators
+1969,189.1,Atlanta Braves
+1969,189.0,Philadelphia Phillies
+1969,188.3,Boston Red Sox
+1969,188.2,Kansas City Royals
+1969,187.5,Detroit Tigers
+1969,187.3,Houston Astros
+1969,187.0,Minnesota Twins
+1969,186.8,St. Louis Cardinals
+1969,185.9,Seattle Pilots
+1969,185.1,California Angels
+1969,185.0,Oakland Athletics
+1969,185.0,San Francisco Giants
+1969,184.7,New York Yankees
+1969,184.7,Montreal Expos
+1969,184.6,Pittsburgh Pirates
+1969,184.5,Chicago White Sox
+1969,184.1,Chicago Cubs
+1969,183.9,Cleveland Indians
+1969,183.7,Los Angeles Dodgers
+1969,183.3,New York Mets
+1969,182.6,San Diego Padres
+1969,182.6,Cincinnati Reds
+1969,180.9,Baltimore Orioles
+1968,191.5,Washington Senators
+1968,189.6,Boston Red Sox
+1968,189.4,Houston Astros
+1968,188.0,Philadelphia Phillies
+1968,187.9,St. Louis Cardinals
+1968,187.2,Cincinnati Reds
+1968,186.3,Atlanta Braves
+1968,186.2,Oakland Athletics
+1968,186.2,Detroit Tigers
+1968,186.0,Chicago Cubs
+1968,185.7,Los Angeles Dodgers
+1968,184.5,California Angels
+1968,184.4,Minnesota Twins
+1968,184.2,Chicago White Sox
+1968,183.8,San Francisco Giants
+1968,183.3,Baltimore Orioles
+1968,183.0,New York Mets
+1968,182.8,New York Yankees
+1968,182.8,Pittsburgh Pirates
+1968,181.8,Cleveland Indians
+1967,190.1,Boston Red Sox
+1967,189.8,St. Louis Cardinals
+1967,189.7,Washington Senators
+1967,188.0,Atlanta Braves
+1967,187.0,California Angels
+1967,186.9,New York Mets
+1967,186.2,Cleveland Indians
+1967,186.2,Cincinnati Reds
+1967,186.1,Los Angeles Dodgers
+1967,186.1,Minnesota Twins
+1967,185.9,Baltimore Orioles
+1967,185.8,Philadelphia Phillies
+1967,185.7,Chicago Cubs
+1967,184.4,Detroit Tigers
+1967,183.5,Houston Astros
+1967,183.3,San Francisco Giants
+1967,183.2,Kansas City Athletics
+1967,183.1,Pittsburgh Pirates
+1967,182.8,Chicago White Sox
+1967,182.3,New York Yankees
+1966,190.1,Boston Red Sox
+1966,189.5,Washington Senators
+1966,188.0,Atlanta Braves
+1966,187.7,Baltimore Orioles
+1966,187.5,Detroit Tigers
+1966,186.3,California Angels
+1966,186.1,San Francisco Giants
+1966,186.0,Houston Astros
+1966,185.9,Cincinnati Reds
+1966,185.5,Minnesota Twins
+1966,185.4,St. Louis Cardinals
+1966,185.2,New York Mets
+1966,185.1,Cleveland Indians
+1966,185.0,Chicago Cubs
+1966,184.6,Kansas City Athletics
+1966,183.9,Los Angeles Dodgers
+1966,183.6,Philadelphia Phillies
+1966,183.4,Pittsburgh Pirates
+1966,182.1,Chicago White Sox
+1966,182.1,New York Yankees
+1965,189.2,Washington Senators
+1965,188.5,Boston Red Sox
+1965,188.1,Philadelphia Phillies
+1965,187.7,Milwaukee Braves
+1965,187.6,Kansas City Athletics
+1965,187.2,Houston Astros
+1965,186.1,Baltimore Orioles
+1965,185.8,Cincinnati Reds
+1965,185.7,St. Louis Cardinals
+1965,185.6,New York Yankees
+1965,185.1,Minnesota Twins
+1965,185.0,Detroit Tigers
+1965,184.9,Chicago Cubs
+1965,184.7,California Angels
+1965,184.6,Pittsburgh Pirates
+1965,184.4,Cleveland Indians
+1965,184.4,New York Mets
+1965,184.1,San Francisco Giants
+1965,183.4,Chicago White Sox
+1965,182.9,Los Angeles Dodgers
+1964,189.5,Boston Red Sox
+1964,187.6,Milwaukee Braves
+1964,187.5,Washington Senators
+1964,187.0,Philadelphia Phillies
+1964,186.8,New York Yankees
+1964,186.1,Houston Colt .45's
+1964,185.9,Detroit Tigers
+1964,185.9,Los Angeles Dodgers
+1964,185.7,New York Mets
+1964,185.7,Pittsburgh Pirates
+1964,185.5,Cincinnati Reds
+1964,185.1,Los Angeles Angels
+1964,184.9,Baltimore Orioles
+1964,184.7,Cleveland Indians
+1964,184.4,Chicago White Sox
+1964,183.3,Minnesota Twins
+1964,183.0,Kansas City Athletics
+1964,182.4,San Francisco Giants
+1964,181.5,St. Louis Cardinals
+1964,179.1,Chicago Cubs
+1963,188.9,Philadelphia Phillies
+1963,187.6,Baltimore Orioles
+1963,187.2,Boston Red Sox
+1963,186.6,St. Louis Cardinals
+1963,186.4,San Francisco Giants
+1963,186.2,Houston Colt .45's
+1963,186.1,Pittsburgh Pirates
+1963,186.1,New York Yankees
+1963,186.1,Cleveland Indians
+1963,186.1,Detroit Tigers
+1963,186.1,Cincinnati Reds
+1963,186.0,Milwaukee Braves
+1963,185.8,Minnesota Twins
+1963,185.4,Los Angeles Dodgers
+1963,185.4,Los Angeles Angels
+1963,185.2,Washington Senators
+1963,185.2,Chicago White Sox
+1963,184.7,New York Mets
+1963,183.7,Kansas City Athletics
+1963,181.8,Chicago Cubs
+1962,189.1,Boston Red Sox
+1962,188.5,Pittsburgh Pirates
+1962,187.2,Baltimore Orioles
+1962,186.9,Cleveland Indians
+1962,186.9,Philadelphia Phillies
+1962,186.5,Detroit Tigers
+1962,186.1,Los Angeles Dodgers
+1962,185.9,Los Angeles Angels
+1962,185.6,Milwaukee Braves
+1962,185.6,New York Yankees
+1962,185.5,Chicago Cubs
+1962,185.0,San Francisco Giants
+1962,185.0,New York Mets
+1962,184.8,Houston Colt .45's
+1962,184.6,Washington Senators
+1962,184.2,Minnesota Twins
+1962,183.9,Cincinnati Reds
+1962,183.0,Chicago White Sox
+1962,182.2,St. Louis Cardinals
+1962,181.8,Kansas City Athletics
+1961,189.4,Baltimore Orioles
+1961,188.3,Cincinnati Reds
+1961,187.9,Detroit Tigers
+1961,187.8,Chicago Cubs
+1961,187.7,Cleveland Indians
+1961,186.7,Milwaukee Braves
+1961,185.8,New York Yankees
+1961,185.7,Kansas City Athletics
+1961,185.7,St. Louis Cardinals
+1961,185.7,Los Angeles Dodgers
+1961,185.4,Boston Red Sox
+1961,185.2,Los Angeles Angels
+1961,185.2,Philadelphia Phillies
+1961,184.2,Chicago White Sox
+1961,183.8,Minnesota Twins
+1961,183.6,Pittsburgh Pirates
+1961,183.2,San Francisco Giants
+1961,183.1,Washington Senators
+1960,189.7,Chicago Cubs
+1960,189.1,Cleveland Indians
+1960,188.0,Kansas City Athletics
+1960,187.5,Milwaukee Braves
+1960,187.5,Detroit Tigers
+1960,187.4,Philadelphia Phillies
+1960,186.2,Boston Red Sox
+1960,185.8,Chicago White Sox
+1960,185.3,Los Angeles Dodgers
+1960,185.3,Washington Senators
+1960,185.2,Pittsburgh Pirates
+1960,185.1,Baltimore Orioles
+1960,184.8,San Francisco Giants
+1960,184.7,St. Louis Cardinals
+1960,184.5,Cincinnati Reds
+1960,184.3,New York Yankees
+1959,188.3,Cincinnati Redlegs
+1959,188.0,San Francisco Giants
+1959,188.0,Boston Red Sox
+1959,186.6,Chicago White Sox
+1959,186.4,Pittsburgh Pirates
+1959,186.4,New York Yankees
+1959,186.0,St. Louis Cardinals
+1959,185.8,Kansas City Athletics
+1959,185.5,Chicago Cubs
+1959,185.0,Philadelphia Phillies
+1959,184.9,Detroit Tigers
+1959,184.8,Los Angeles Dodgers
+1959,184.3,Milwaukee Braves
+1959,182.3,Washington Senators
+1959,182.0,Cleveland Indians
+1959,181.5,Baltimore Orioles
+1958,189.7,Philadelphia Phillies
+1958,189.0,Cincinnati Redlegs
+1958,188.9,Chicago White Sox
+1958,187.6,Boston Red Sox
+1958,187.2,Los Angeles Dodgers
+1958,186.0,Milwaukee Braves
+1958,185.9,Detroit Tigers
+1958,185.6,Pittsburgh Pirates
+1958,185.2,Chicago Cubs
+1958,184.4,San Francisco Giants
+1958,183.4,Washington Senators
+1958,183.3,Kansas City Athletics
+1958,182.7,New York Yankees
+1958,181.9,Baltimore Orioles
+1958,181.2,Cleveland Indians
+1958,180.8,St. Louis Cardinals
+1957,188.7,Chicago White Sox
+1957,186.8,Cincinnati Redlegs
+1957,186.1,Cleveland Indians
+1957,186.1,Boston Red Sox
+1957,186.0,Pittsburgh Pirates
+1957,185.9,Philadelphia Phillies
+1957,185.9,Milwaukee Braves
+1957,185.4,Washington Senators
+1957,185.1,Detroit Tigers
+1957,184.9,Chicago Cubs
+1957,184.0,St. Louis Cardinals
+1957,183.2,Kansas City Athletics
+1957,182.4,New York Yankees
+1957,182.0,Baltimore Orioles
+1957,181.4,Brooklyn Dodgers
+1957,180.9,New York Giants
+1956,189.4,Cincinnati Redlegs
+1956,185.7,New York Yankees
+1956,184.7,Chicago White Sox
+1956,184.7,Chicago Cubs
+1956,184.4,Boston Red Sox
+1956,183.9,Cleveland Indians
+1956,183.8,Brooklyn Dodgers
+1956,183.7,Detroit Tigers
+1956,183.5,Philadelphia Phillies
+1956,183.0,Baltimore Orioles
+1956,182.9,Kansas City Athletics
+1956,182.8,Milwaukee Braves
+1956,182.6,Pittsburgh Pirates
+1956,182.3,Washington Senators
+1956,181.5,St. Louis Cardinals
+1956,181.5,New York Giants
+1955,187.9,Boston Red Sox
+1955,187.4,Cincinnati Redlegs
+1955,187.2,Chicago Cubs
+1955,185.7,New York Yankees
+1955,185.3,Chicago White Sox
+1955,185.1,Kansas City Athletics
+1955,185.1,Baltimore Orioles
+1955,184.9,Pittsburgh Pirates
+1955,184.4,Brooklyn Dodgers
+1955,184.4,Detroit Tigers
+1955,183.3,Cleveland Indians
+1955,182.9,St. Louis Cardinals
+1955,182.5,Milwaukee Braves
+1955,182.1,Philadelphia Phillies
+1955,181.3,New York Giants
+1955,179.5,Washington Senators
+1954,186.5,Detroit Tigers
+1954,186.1,New York Yankees
+1954,185.9,Boston Red Sox
+1954,185.6,Philadelphia Athletics
+1954,185.5,Baltimore Orioles
+1954,185.3,Cleveland Indians
+1954,185.0,Pittsburgh Pirates
+1954,184.7,Chicago Cubs
+1954,184.1,Cincinnati Redlegs
+1954,183.7,Milwaukee Braves
+1954,183.7,Philadelphia Phillies
+1954,183.3,St. Louis Cardinals
+1954,183.3,New York Giants
+1954,182.9,Chicago White Sox
+1954,182.8,Brooklyn Dodgers
+1954,181.2,Washington Senators
+1953,187.3,Detroit Tigers
+1953,187.2,Cleveland Indians
+1953,186.0,Milwaukee Braves
+1953,185.2,Philadelphia Athletics
+1953,185.1,Philadelphia Phillies
+1953,184.6,New York Giants
+1953,184.3,New York Yankees
+1953,184.2,St. Louis Browns
+1953,183.9,Cincinnati Reds
+1953,183.7,St. Louis Cardinals
+1953,183.4,Boston Red Sox
+1953,183.0,Brooklyn Dodgers
+1953,183.0,Chicago White Sox
+1953,183.0,Chicago Cubs
+1953,182.1,Pittsburgh Pirates
+1953,179.5,Washington Senators
+1952,187.4,Cleveland Indians
+1952,186.4,Boston Braves
+1952,186.3,Philadelphia Athletics
+1952,185.9,Chicago Cubs
+1952,185.8,Boston Red Sox
+1952,185.6,Cincinnati Reds
+1952,184.1,Detroit Tigers
+1952,184.1,New York Giants
+1952,183.8,Philadelphia Phillies
+1952,183.5,New York Yankees
+1952,183.1,Pittsburgh Pirates
+1952,182.4,Brooklyn Dodgers
+1952,182.0,St. Louis Cardinals
+1952,181.5,St. Louis Browns
+1952,180.7,Washington Senators
+1952,180.6,Chicago White Sox
+1951,186.1,New York Yankees
+1951,185.9,Boston Red Sox
+1951,185.1,Philadelphia Athletics
+1951,184.9,Cincinnati Reds
+1951,184.9,Cleveland Indians
+1951,184.3,Philadelphia Phillies
+1951,184.3,Chicago Cubs
+1951,183.7,Detroit Tigers
+1951,182.8,St. Louis Browns
+1951,182.7,Washington Senators
+1951,182.5,Boston Braves
+1951,182.3,St. Louis Cardinals
+1951,182.1,New York Giants
+1951,181.9,Brooklyn Dodgers
+1951,181.7,Pittsburgh Pirates
+1951,179.4,Chicago White Sox
+1950,187.6,New York Yankees
+1950,187.6,Cleveland Indians
+1950,186.1,Chicago Cubs
+1950,185.9,Cincinnati Reds
+1950,185.6,Boston Red Sox
+1950,185.2,St. Louis Cardinals
+1950,184.2,St. Louis Browns
+1950,184.2,Philadelphia Phillies
+1950,183.4,Philadelphia Athletics
+1950,183.3,Boston Braves
+1950,183.1,Detroit Tigers
+1950,183.1,New York Giants
+1950,182.3,Brooklyn Dodgers
+1950,180.4,Washington Senators
+1950,179.3,Chicago White Sox
+1950,179.3,Pittsburgh Pirates
+1949,188.0,New York Yankees
+1949,187.3,Cincinnati Reds
+1949,186.3,Cleveland Indians
+1949,186.0,Boston Red Sox
+1949,185.3,St. Louis Cardinals
+1949,184.4,Philadelphia Phillies
+1949,184.1,Detroit Tigers
+1949,183.9,St. Louis Browns
+1949,183.6,Boston Braves
+1949,182.7,Philadelphia Athletics
+1949,182.2,Washington Senators
+1949,182.0,Chicago White Sox
+1949,182.0,Chicago Cubs
+1949,181.8,Pittsburgh Pirates
+1949,180.9,Brooklyn Dodgers
+1949,180.5,New York Giants
+1948,187.1,Cleveland Indians
+1948,186.4,New York Giants
+1948,185.6,Cincinnati Reds
+1948,185.5,Philadelphia Athletics
+1948,185.3,Boston Braves
+1948,185.2,Philadelphia Phillies
+1948,185.1,Boston Red Sox
+1948,185.1,St. Louis Browns
+1948,184.9,New York Yankees
+1948,183.2,St. Louis Cardinals
+1948,182.2,Detroit Tigers
+1948,181.4,Chicago White Sox
+1948,180.1,Brooklyn Dodgers
+1948,180.0,Chicago Cubs
+1948,179.9,Pittsburgh Pirates
+1948,176.5,Washington Senators
+1947,187.5,New York Yankees
+1947,187.2,Cleveland Indians
+1947,186.8,New York Giants
+1947,184.8,Chicago White Sox
+1947,184.3,St. Louis Browns
+1947,183.7,Boston Red Sox
+1947,183.7,St. Louis Cardinals
+1947,182.9,Cincinnati Reds
+1947,182.7,Philadelphia Phillies
+1947,181.9,Philadelphia Athletics
+1947,181.8,Detroit Tigers
+1947,181.6,Pittsburgh Pirates
+1947,180.9,Boston Braves
+1947,180.8,Brooklyn Dodgers
+1947,180.4,Chicago Cubs
+1947,180.0,Washington Senators
+1946,189.1,New York Yankees
+1946,186.8,Cleveland Indians
+1946,185.7,St. Louis Browns
+1946,185.2,New York Giants
+1946,183.9,Boston Red Sox
+1946,183.2,Cincinnati Reds
+1946,183.2,Boston Braves
+1946,182.8,St. Louis Cardinals
+1946,181.8,Chicago White Sox
+1946,181.6,Detroit Tigers
+1946,181.4,Chicago Cubs
+1946,181.2,Philadelphia Phillies
+1946,181.1,Philadelphia Athletics
+1946,181.1,Brooklyn Dodgers
+1946,178.4,Washington Senators
+1946,177.9,Pittsburgh Pirates
+1945,188.4,New York Yankees
+1945,184.4,Detroit Tigers
+1945,184.1,Cleveland Indians
+1945,183.9,Boston Braves
+1945,182.9,Chicago Cubs
+1945,182.6,Cincinnati Reds
+1945,182.1,New York Giants
+1945,181.2,Philadelphia Athletics
+1945,180.9,Boston Red Sox
+1945,180.2,Pittsburgh Pirates
+1945,179.9,Chicago White Sox
+1945,179.6,St. Louis Browns
+1945,179.6,Brooklyn Dodgers
+1945,179.4,Philadelphia Phillies
+1945,176.8,St. Louis Cardinals
+1945,173.9,Washington Senators
+1944,187.3,New York Yankees
+1944,187.2,Cleveland Indians
+1944,183.8,New York Giants
+1944,183.0,Boston Braves
+1944,183.0,Chicago Cubs
+1944,182.8,Detroit Tigers
+1944,181.6,Cincinnati Reds
+1944,181.6,St. Louis Cardinals
+1944,180.4,Chicago White Sox
+1944,179.8,St. Louis Browns
+1944,179.8,Philadelphia Blue Jays
+1944,179.6,Pittsburgh Pirates
+1944,178.7,Boston Red Sox
+1944,178.3,Washington Senators
+1944,176.7,Brooklyn Dodgers
+1944,175.8,Philadelphia Athletics
+1943,186.2,New York Yankees
+1943,185.8,Cleveland Indians
+1943,184.2,New York Giants
+1943,184.0,Boston Braves
+1943,183.6,Cincinnati Reds
+1943,183.2,Chicago Cubs
+1943,183.1,Pittsburgh Pirates
+1943,183.0,Boston Red Sox
+1943,181.5,Philadelphia Blue Jays
+1943,181.2,Detroit Tigers
+1943,179.7,Philadelphia Athletics
+1943,179.5,St. Louis Cardinals
+1943,179.2,Brooklyn Dodgers
+1943,179.1,Chicago White Sox
+1943,178.6,Washington Senators
+1943,178.4,St. Louis Browns
+1942,187.2,Cleveland Indians
+1942,185.9,Cincinnati Reds
+1942,185.8,New York Giants
+1942,185.5,Boston Braves
+1942,185.4,New York Yankees
+1942,182.9,Washington Senators
+1942,182.7,Brooklyn Dodgers
+1942,182.4,Philadelphia Athletics
+1942,182.1,Boston Red Sox
+1942,181.8,Detroit Tigers
+1942,181.6,Philadelphia Phillies
+1942,181.6,Chicago Cubs
+1942,181.0,St. Louis Cardinals
+1942,180.5,Pittsburgh Pirates
+1942,180.1,St. Louis Browns
+1942,179.2,Chicago White Sox
+1941,186.0,New York Yankees
+1941,185.5,Cleveland Indians
+1941,185.1,Cincinnati Reds
+1941,184.4,St. Louis Cardinals
+1941,184.4,Chicago White Sox
+1941,184.1,New York Giants
+1941,183.6,Philadelphia Athletics
+1941,182.9,Detroit Tigers
+1941,182.6,Brooklyn Dodgers
+1941,181.7,Boston Red Sox
+1941,181.7,Boston Braves
+1941,181.6,Philadelphia Phillies
+1941,180.0,Chicago Cubs
+1941,179.7,St. Louis Browns
+1941,179.5,Washington Senators
+1941,179.3,Pittsburgh Pirates
+1940,188.0,Cleveland Indians
+1940,185.6,Cincinnati Reds
+1940,185.2,New York Yankees
+1940,184.5,Chicago White Sox
+1940,183.7,Brooklyn Dodgers
+1940,183.4,Chicago Cubs
+1940,182.8,New York Giants
+1940,182.2,St. Louis Cardinals
+1940,182.1,Detroit Tigers
+1940,181.0,Boston Red Sox
+1940,180.5,Boston Bees
+1940,180.4,Washington Senators
+1940,179.5,St. Louis Browns
+1940,179.5,Pittsburgh Pirates
+1940,179.0,Philadelphia Phillies
+1940,177.6,Philadelphia Athletics
+1939,184.5,Cleveland Indians
+1939,184.5,New York Giants
+1939,184.3,Chicago Cubs
+1939,184.3,New York Yankees
+1939,183.4,Cincinnati Reds
+1939,182.1,Pittsburgh Pirates
+1939,181.0,Boston Red Sox
+1939,180.9,St. Louis Cardinals
+1939,180.8,Chicago White Sox
+1939,179.9,Detroit Tigers
+1939,179.6,Philadelphia Phillies
+1939,178.9,Brooklyn Dodgers
+1939,178.8,Washington Senators
+1939,178.2,St. Louis Browns
+1939,178.2,Philadelphia Athletics
+1939,175.1,Boston Bees
+1938,184.7,New York Giants
+1938,183.4,New York Yankees
+1938,182.8,Cincinnati Reds
+1938,182.7,Chicago Cubs
+1938,182.5,Cleveland Indians
+1938,181.0,Chicago White Sox
+1938,181.0,Brooklyn Dodgers
+1938,180.6,St. Louis Cardinals
+1938,180.6,Philadelphia Phillies
+1938,180.2,Detroit Tigers
+1938,179.9,Boston Red Sox
+1938,179.4,St. Louis Browns
+1938,178.8,Pittsburgh Pirates
+1938,178.7,Washington Senators
+1938,177.2,Philadelphia Athletics
+1938,175.8,Boston Bees
+1937,186.3,Cincinnati Reds
+1937,186.3,New York Giants
+1937,183.0,Chicago White Sox
+1937,182.9,Cleveland Indians
+1937,182.7,St. Louis Cardinals
+1937,182.5,Chicago Cubs
+1937,181.6,New York Yankees
+1937,180.8,Washington Senators
+1937,180.5,Boston Red Sox
+1937,179.3,Pittsburgh Pirates
+1937,178.6,Philadelphia Athletics
+1937,178.2,Brooklyn Dodgers
+1937,177.4,St. Louis Browns
+1937,177.4,Detroit Tigers
+1937,177.2,Philadelphia Phillies
+1937,176.3,Boston Bees
+1936,184.3,New York Yankees
+1936,184.1,Cleveland Indians
+1936,181.4,Boston Red Sox
+1936,181.1,Chicago White Sox
+1936,180.9,Chicago Cubs
+1936,180.9,Washington Senators
+1936,180.8,Pittsburgh Pirates
+1936,180.5,St. Louis Browns
+1936,180.1,Brooklyn Dodgers
+1936,179.8,New York Giants
+1936,179.4,Cincinnati Reds
+1936,179.2,Philadelphia Phillies
+1936,178.9,Detroit Tigers
+1936,178.3,St. Louis Cardinals
+1936,178.0,Philadelphia Athletics
+1936,175.1,Boston Bees
+1935,182.3,New York Yankees
+1935,181.3,Chicago White Sox
+1935,181.0,Chicago Cubs
+1935,180.9,St. Louis Browns
+1935,180.6,Cleveland Indians
+1935,180.2,Boston Red Sox
+1935,179.8,Cincinnati Reds
+1935,179.7,Philadelphia Athletics
+1935,179.3,Boston Braves
+1935,179.2,Brooklyn Dodgers
+1935,178.8,Pittsburgh Pirates
+1935,177.5,St. Louis Cardinals
+1935,177.3,New York Giants
+1935,177.2,Philadelphia Phillies
+1935,176.3,Detroit Tigers
+1935,176.1,Washington Senators
+1934,185.3,Chicago Cubs
+1934,183.9,Philadelphia Athletics
+1934,182.0,Philadelphia Phillies
+1934,180.7,Cincinnati Reds
+1934,179.9,St. Louis Browns
+1934,179.7,Boston Braves
+1934,179.6,Detroit Tigers
+1934,179.3,Cleveland Indians
+1934,178.9,New York Yankees
+1934,178.8,Boston Red Sox
+1934,177.9,Chicago White Sox
+1934,177.3,New York Giants
+1934,177.1,Pittsburgh Pirates
+1934,176.3,Washington Senators
+1934,175.4,St. Louis Cardinals
+1934,174.3,Brooklyn Dodgers
+1933,185.1,Philadelphia Athletics
+1933,183.9,New York Yankees
+1933,182.4,Chicago Cubs
+1933,182.2,Philadelphia Phillies
+1933,180.1,Cleveland Indians
+1933,178.8,Boston Red Sox
+1933,178.8,Boston Braves
+1933,177.5,Chicago White Sox
+1933,177.5,Detroit Tigers
+1933,176.7,Cincinnati Reds
+1933,176.3,New York Giants
+1933,176.2,Pittsburgh Pirates
+1933,175.3,St. Louis Cardinals
+1933,174.4,Brooklyn Dodgers
+1933,174.4,Washington Senators
+1933,173.8,St. Louis Browns
+1932,183.6,New York Yankees
+1932,180.4,Chicago Cubs
+1932,179.8,Philadelphia Athletics
+1932,179.6,Chicago White Sox
+1932,179.1,Philadelphia Phillies
+1932,178.9,Cincinnati Reds
+1932,178.0,Boston Red Sox
+1932,177.8,Boston Braves
+1932,177.4,New York Giants
+1932,176.9,Brooklyn Dodgers
+1932,176.9,Detroit Tigers
+1932,175.9,Cleveland Indians
+1932,175.2,St. Louis Cardinals
+1932,174.9,Pittsburgh Pirates
+1932,174.0,St. Louis Browns
+1932,173.6,Washington Senators
+1931,183.4,New York Yankees
+1931,182.2,Philadelphia Athletics
+1931,181.9,Chicago White Sox
+1931,180.2,Philadelphia Phillies
+1931,178.8,New York Giants
+1931,178.4,Cleveland Indians
+1931,178.2,Brooklyn Robins
+1931,178.2,Chicago Cubs
+1931,175.8,Detroit Tigers
+1931,175.6,Cincinnati Reds
+1931,175.5,Washington Senators
+1931,173.6,St. Louis Cardinals
+1931,173.3,Boston Braves
+1931,172.8,St. Louis Browns
+1931,172.4,Boston Red Sox
+1931,171.7,Pittsburgh Pirates
+1930,181.7,New York Yankees
+1930,181.2,Brooklyn Robins
+1930,179.8,Detroit Tigers
+1930,179.6,Chicago Cubs
+1930,179.3,Philadelphia Athletics
+1930,178.7,Chicago White Sox
+1930,177.2,New York Giants
+1930,175.7,Cleveland Indians
+1930,175.1,Cincinnati Reds
+1930,175.1,Philadelphia Phillies
+1930,174.7,Boston Red Sox
+1930,173.6,St. Louis Cardinals
+1930,173.3,St. Louis Browns
+1930,171.6,Washington Senators
+1930,171.3,Pittsburgh Pirates
+1930,170.5,Boston Braves
+1929,180.7,Brooklyn Robins
+1929,178.7,Chicago Cubs
+1929,178.7,Detroit Tigers
+1929,177.5,New York Giants
+1929,177.3,New York Yankees
+1929,177.0,Philadelphia Athletics
+1929,175.8,Chicago White Sox
+1929,174.9,St. Louis Cardinals
+1929,174.2,Cleveland Indians
+1929,173.7,St. Louis Browns
+1929,173.3,Boston Red Sox
+1929,173.2,Philadelphia Phillies
+1929,173.2,Pittsburgh Pirates
+1929,172.0,Cincinnati Reds
+1929,170.2,Washington Senators
+1929,168.7,Boston Braves
+1928,182.0,Cleveland Indians
+1928,179.7,Philadelphia Athletics
+1928,179.4,New York Giants
+1928,178.7,Chicago Cubs
+1928,178.3,Detroit Tigers
+1928,177.6,Brooklyn Robins
+1928,177.4,New York Yankees
+1928,175.7,St. Louis Browns
+1928,175.5,Philadelphia Phillies
+1928,174.4,Chicago White Sox
+1928,173.3,St. Louis Cardinals
+1928,172.1,Cincinnati Reds
+1928,171.6,Washington Senators
+1928,170.9,Boston Red Sox
+1928,170.1,Pittsburgh Pirates
+1928,169.1,Boston Braves
+1927,181.4,Cleveland Indians
+1927,179.9,Philadelphia Athletics
+1927,178.1,Brooklyn Robins
+1927,176.7,New York Yankees
+1927,176.3,Detroit Tigers
+1927,175.6,New York Giants
+1927,174.9,Chicago Cubs
+1927,174.7,St. Louis Browns
+1927,174.6,Philadelphia Phillies
+1927,173.5,Chicago White Sox
+1927,171.1,St. Louis Cardinals
+1927,170.8,Cincinnati Reds
+1927,170.7,Boston Braves
+1927,170.1,Washington Senators
+1927,169.8,Pittsburgh Pirates
+1927,169.4,Boston Red Sox
+1926,177.3,Detroit Tigers
+1926,176.9,New York Yankees
+1926,176.7,Philadelphia Athletics
+1926,174.9,Cleveland Indians
+1926,174.6,Brooklyn Robins
+1926,174.5,Philadelphia Phillies
+1926,173.5,Chicago Cubs
+1926,173.3,St. Louis Cardinals
+1926,172.8,Chicago White Sox
+1926,172.6,St. Louis Browns
+1926,172.4,New York Giants
+1926,172.1,Boston Braves
+1926,171.8,Washington Senators
+1926,171.6,Boston Red Sox
+1926,171.1,Pittsburgh Pirates
+1926,170.5,Cincinnati Reds
+1925,179.9,Brooklyn Robins
+1925,177.3,Detroit Tigers
+1925,177.1,Cincinnati Reds
+1925,176.0,Philadelphia Phillies
+1925,174.8,Cleveland Indians
+1925,174.5,New York Giants
+1925,174.1,St. Louis Cardinals
+1925,174.0,Philadelphia Athletics
+1925,173.7,Chicago Cubs
+1925,173.1,New York Yankees
+1925,172.7,Boston Red Sox
+1925,172.3,Pittsburgh Pirates
+1925,170.1,Chicago White Sox
+1925,169.8,Washington Senators
+1925,169.8,Boston Braves
+1925,169.4,St. Louis Browns
+1924,179.6,Detroit Tigers
+1924,178.7,Philadelphia Athletics
+1924,175.8,Cincinnati Reds
+1924,175.8,Philadelphia Phillies
+1924,175.5,Boston Red Sox
+1924,175.1,Brooklyn Robins
+1924,174.3,New York Giants
+1924,174.1,New York Yankees
+1924,173.3,St. Louis Cardinals
+1924,172.4,Washington Senators
+1924,172.3,Cleveland Indians
+1924,172.2,Chicago Cubs
+1924,171.5,St. Louis Browns
+1924,171.4,Pittsburgh Pirates
+1924,169.9,Chicago White Sox
+1924,169.2,Boston Braves
+1923,177.4,Philadelphia Athletics
+1923,177.4,Detroit Tigers
+1923,175.6,Philadelphia Phillies
+1923,175.2,Brooklyn Robins
+1923,174.9,Cincinnati Reds
+1923,174.5,Cleveland Indians
+1923,174.5,New York Giants
+1923,172.8,Boston Red Sox
+1923,172.7,New York Yankees
+1923,171.7,Chicago Cubs
+1923,171.6,Chicago White Sox
+1923,171.4,St. Louis Browns
+1923,171.0,Boston Braves
+1923,170.9,St. Louis Cardinals
+1923,170.8,Washington Senators
+1923,170.5,Pittsburgh Pirates
+1922,176.6,Brooklyn Robins
+1922,174.5,Philadelphia Athletics
+1922,174.4,Detroit Tigers
+1922,174.0,Cleveland Indians
+1922,173.7,Philadelphia Phillies
+1922,173.5,Cincinnati Reds
+1922,173.5,New York Yankees
+1922,173.3,Washington Senators
+1922,171.7,Boston Braves
+1922,171.5,St. Louis Cardinals
+1922,171.4,Pittsburgh Pirates
+1922,171.2,New York Giants
+1922,171.1,Chicago White Sox
+1922,169.7,Chicago Cubs
+1922,168.7,Boston Red Sox
+1922,167.5,St. Louis Browns
+1921,177.0,New York Yankees
+1921,175.6,Cleveland Indians
+1921,174.6,Brooklyn Robins
+1921,173.6,Boston Braves
+1921,172.6,Philadelphia Phillies
+1921,172.3,Pittsburgh Pirates
+1921,171.7,Chicago Cubs
+1921,171.6,New York Giants
+1921,170.5,Cincinnati Reds
+1921,170.2,Chicago White Sox
+1921,170.2,Detroit Tigers
+1921,170.0,Philadelphia Athletics
+1921,169.8,Washington Senators
+1921,169.6,St. Louis Cardinals
+1921,169.0,St. Louis Browns
+1921,165.6,Boston Red Sox
+1920,177.6,New York Yankees
+1920,175.6,Cleveland Indians
+1920,174.3,Brooklyn Robins
+1920,174.3,Philadelphia Phillies
+1920,174.3,Detroit Tigers
+1920,173.9,Chicago Cubs
+1920,173.9,New York Giants
+1920,173.8,Philadelphia Athletics
+1920,173.0,Chicago White Sox
+1920,172.6,Boston Braves
+1920,171.7,Pittsburgh Pirates
+1920,170.2,Cincinnati Reds
+1920,169.6,St. Louis Browns
+1920,169.5,Washington Senators
+1920,168.5,St. Louis Cardinals
+1920,166.9,Boston Red Sox
+1919,175.6,New York Yankees
+1919,175.4,Detroit Tigers
+1919,175.4,Brooklyn Robins
+1919,174.9,Cleveland Indians
+1919,174.5,Chicago White Sox
+1919,174.1,Chicago Cubs
+1919,173.9,New York Giants
+1919,172.9,Philadelphia Athletics
+1919,172.3,Boston Braves
+1919,171.8,Pittsburgh Pirates
+1919,171.7,Boston Red Sox
+1919,171.6,Philadelphia Phillies
+1919,170.6,St. Louis Browns
+1919,169.4,St. Louis Cardinals
+1919,169.3,Cincinnati Reds
+1919,166.3,Washington Senators
+1918,175.1,Detroit Tigers
+1918,175.0,Chicago White Sox
+1918,175.0,New York Giants
+1918,174.3,Brooklyn Robins
+1918,173.9,Cincinnati Reds
+1918,173.7,Cleveland Indians
+1918,173.4,Boston Red Sox
+1918,173.1,New York Yankees
+1918,173.1,Philadelphia Athletics
+1918,171.8,Chicago Cubs
+1918,171.7,Washington Senators
+1918,171.0,Philadelphia Phillies
+1918,170.8,Pittsburgh Pirates
+1918,170.7,St. Louis Browns
+1918,170.1,St. Louis Cardinals
+1918,168.8,Boston Braves
+1917,177.0,Cincinnati Reds
+1917,176.7,Brooklyn Robins
+1917,174.4,Chicago White Sox
+1917,174.4,Detroit Tigers
+1917,173.6,Boston Braves
+1917,173.5,New York Giants
+1917,173.0,Boston Red Sox
+1917,172.5,St. Louis Cardinals
+1917,171.3,Cleveland Indians
+1917,171.3,Philadelphia Athletics
+1917,171.2,St. Louis Browns
+1917,170.9,Chicago Cubs
+1917,170.5,New York Yankees
+1917,169.8,Pittsburgh Pirates
+1917,167.6,Philadelphia Phillies
+1917,167.2,Washington Senators
+1916,176.2,Brooklyn Robins
+1916,175.2,Detroit Tigers
+1916,174.8,St. Louis Cardinals
+1916,174.8,Cincinnati Reds
+1916,174.7,Boston Red Sox
+1916,174.0,Cleveland Indians
+1916,174.0,New York Giants
+1916,173.9,Philadelphia Phillies
+1916,173.3,Chicago White Sox
+1916,171.7,Boston Braves
+1916,171.5,Philadelphia Athletics
+1916,171.1,Pittsburgh Pirates
+1916,170.6,St. Louis Browns
+1916,170.5,New York Yankees
+1916,170.3,Chicago Cubs
+1916,168.6,Washington Senators
+1915,178.1,New York Giants
+1915,178.1,Detroit Tigers
+1915,177.3,Brooklyn Robins
+1915,176.0,Chicago White Sox
+1915,176.0,Kansas City Packers
+1915,176.0,Chicago Cubs
+1915,175.8,St. Louis Cardinals
+1915,175.6,Boston Red Sox
+1915,175.2,Brooklyn Tip-Tops
+1915,174.3,Cleveland Indians
+1915,174.0,Newark Pepper
+1915,174.0,St. Louis Browns
+1915,173.8,Cincinnati Reds
+1915,173.5,Philadelphia Phillies
+1915,173.5,Buffalo Blues
+1915,173.0,Philadelphia Athletics
+1915,172.3,New York Yankees
+1915,172.2,Pittsburgh Pirates
+1915,171.3,Baltimore Terrapins
+1915,170.8,Boston Braves
+1915,170.4,St. Louis Terriers
+1915,170.0,Washington Senators
+1915,168.8,Pittsburgh Rebels
+1915,167.8,Chicago Whales
+1914,180.2,New York Giants
+1914,176.8,Brooklyn Robins
+1914,176.5,Boston Red Sox
+1914,175.9,Detroit Tigers
+1914,175.8,Cincinnati Reds
+1914,175.5,Cleveland Naps
+1914,175.1,Chicago Cubs
+1914,174.5,Chicago White Sox
+1914,174.1,Washington Senators
+1914,173.3,New York Yankees
+1914,172.9,Baltimore Terrapins
+1914,172.8,Philadelphia Phillies
+1914,172.6,Brooklyn Tip-Tops
+1914,172.6,Indianapolis Hoosiers
+1914,172.5,Pittsburgh Pirates
+1914,172.4,Buffalo Buffeds
+1914,172.4,St. Louis Terriers
+1914,172.0,Philadelphia Athletics
+1914,171.7,Kansas City Packers
+1914,171.6,St. Louis Browns
+1914,170.8,Boston Braves
+1914,169.5,St. Louis Cardinals
+1914,169.3,Chicago Chi-Feds
+1914,169.1,Pittsburgh Rebels
+1913,178.3,Brooklyn Superbas
+1913,176.6,Chicago White Sox
+1913,176.4,Cleveland Naps
+1913,176.4,Chicago Cubs
+1913,176.3,Boston Braves
+1913,176.2,New York Giants
+1913,175.9,Washington Senators
+1913,175.4,New York Yankees
+1913,175.1,Boston Red Sox
+1913,173.6,St. Louis Cardinals
+1913,173.6,Philadelphia Phillies
+1913,173.6,Detroit Tigers
+1913,173.4,Cincinnati Reds
+1913,172.1,Pittsburgh Pirates
+1913,171.8,Philadelphia Athletics
+1913,171.8,St. Louis Browns
+1912,179.3,New York Giants
+1912,175.5,Boston Red Sox
+1912,175.1,St. Louis Cardinals
+1912,174.9,Cleveland Naps
+1912,174.8,Boston Braves
+1912,174.8,Cincinnati Reds
+1912,174.6,Chicago White Sox
+1912,174.1,Washington Senators
+1912,174.1,Philadelphia Phillies
+1912,173.6,Detroit Tigers
+1912,173.1,Brooklyn Dodgers
+1912,173.0,St. Louis Browns
+1912,172.9,New York Highlanders
+1912,172.3,Chicago Cubs
+1912,171.9,Philadelphia Athletics
+1912,169.4,Pittsburgh Pirates
+1911,178.2,Cleveland Naps
+1911,177.6,Philadelphia Phillies
+1911,177.3,Detroit Tigers
+1911,175.5,New York Giants
+1911,175.4,Boston Red Sox
+1911,175.3,Chicago Cubs
+1911,175.2,Pittsburgh Pirates
+1911,175.1,Boston Rustlers
+1911,175.0,St. Louis Browns
+1911,174.2,Brooklyn Dodgers
+1911,173.6,Chicago White Sox
+1911,173.5,Cincinnati Reds
+1911,173.1,Philadelphia Athletics
+1911,172.9,Washington Senators
+1911,172.3,New York Highlanders
+1911,172.0,St. Louis Cardinals
+1910,178.6,New York Giants
+1910,177.9,St. Louis Cardinals
+1910,177.6,Detroit Tigers
+1910,176.5,St. Louis Browns
+1910,176.3,Washington Senators
+1910,176.2,Cleveland Naps
+1910,175.1,Boston Red Sox
+1910,174.7,Pittsburgh Pirates
+1910,174.3,Philadelphia Athletics
+1910,173.9,Chicago Cubs
+1910,173.0,Cincinnati Reds
+1910,172.4,New York Highlanders
+1910,171.4,Philadelphia Phillies
+1910,170.9,Brooklyn Superbas
+1910,170.1,Boston Doves
+1910,168.8,Chicago White Sox
+1909,179.9,Cincinnati Reds
+1909,179.2,Boston Red Sox
+1909,178.1,Detroit Tigers
+1909,176.5,New York Giants
+1909,176.3,Washington Senators
+1909,176.2,Philadelphia Athletics
+1909,176.0,Cleveland Naps
+1909,175.4,Chicago White Sox
+1909,175.2,Chicago Cubs
+1909,175.2,Boston Doves
+1909,174.9,St. Louis Browns
+1909,174.1,St. Louis Cardinals
+1909,173.2,New York Highlanders
+1909,173.0,Pittsburgh Pirates
+1909,172.3,Philadelphia Phillies
+1909,171.8,Brooklyn Superbas
+1908,179.5,St. Louis Browns
+1908,178.1,Cincinnati Reds
+1908,177.1,New York Giants
+1908,177.1,Philadelphia Athletics
+1908,176.5,Boston Red Sox
+1908,176.5,St. Louis Cardinals
+1908,175.9,Washington Senators
+1908,174.8,Chicago Cubs
+1908,174.7,Cleveland Naps
+1908,174.1,Boston Doves
+1908,174.1,Detroit Tigers
+1908,174.0,Pittsburgh Pirates
+1908,173.3,Chicago White Sox
+1908,172.2,New York Highlanders
+1908,171.5,Brooklyn Superbas
+1908,171.1,Philadelphia Phillies
+1907,177.7,New York Giants
+1907,176.9,Cincinnati Reds
+1907,176.8,Cleveland Naps
+1907,176.6,Philadelphia Athletics
+1907,176.0,Boston Americans
+1907,175.9,Detroit Tigers
+1907,175.0,St. Louis Cardinals
+1907,174.9,Chicago White Sox
+1907,174.7,St. Louis Browns
+1907,174.6,Boston Doves
+1907,174.5,Chicago Cubs
+1907,172.4,Pittsburgh Pirates
+1907,170.9,New York Highlanders
+1907,170.8,Brooklyn Superbas
+1907,170.5,Philadelphia Phillies
+1907,170.2,Washington Senators
+1906,179.3,Detroit Tigers
+1906,178.5,New York Giants
+1906,178.4,Cincinnati Reds
+1906,177.9,St. Louis Cardinals
+1906,175.8,Philadelphia Athletics
+1906,175.7,Cleveland Naps
+1906,175.3,St. Louis Browns
+1906,174.8,Chicago Cubs
+1906,174.5,Pittsburgh Pirates
+1906,174.0,Chicago White Sox
+1906,173.9,Boston Americans
+1906,171.9,Boston Beaneaters
+1906,171.5,Washington Senators
+1906,171.4,New York Highlanders
+1906,171.3,Brooklyn Superbas
+1906,169.8,Philadelphia Phillies
+1905,177.2,New York Giants
+1905,176.5,Cleveland Naps
+1905,176.2,Cincinnati Reds
+1905,175.7,Chicago White Sox
+1905,175.5,St. Louis Cardinals
+1905,174.8,St. Louis Browns
+1905,174.5,Detroit Tigers
+1905,173.3,Boston Americans
+1905,173.1,Brooklyn Superbas
+1905,173.0,Washington Senators
+1905,172.6,Boston Beaneaters
+1905,172.6,New York Highlanders
+1905,172.4,Pittsburgh Pirates
+1905,172.1,Philadelphia Athletics
+1905,170.7,Philadelphia Phillies
+1905,168.8,Chicago Cubs
+1904,181.2,New York Giants
+1904,179.5,St. Louis Cardinals
+1904,177.8,Cleveland Naps
+1904,176.3,Chicago White Sox
+1904,175.7,St. Louis Browns
+1904,175.1,Washington Senators
+1904,174.3,Brooklyn Superbas
+1904,174.2,Detroit Tigers
+1904,174.1,Boston Americans
+1904,172.7,Cincinnati Reds
+1904,172.4,Pittsburgh Pirates
+1904,172.0,Philadelphia Athletics
+1904,171.2,New York Highlanders
+1904,170.2,Boston Beaneaters
+1904,168.0,Philadelphia Phillies
+1904,166.3,Chicago Cubs
+1903,178.9,New York Giants
+1903,178.5,Cleveland Naps
+1903,176.6,Boston Americans
+1903,174.9,Chicago White Sox
+1903,174.8,Pittsburgh Pirates
+1903,174.0,Philadelphia Phillies
+1903,173.8,Philadelphia Athletics
+1903,173.6,St. Louis Browns
+1903,173.1,Brooklyn Superbas
+1903,172.9,Cincinnati Reds
+1903,172.7,Detroit Tigers
+1903,172.1,St. Louis Cardinals
+1903,171.2,Washington Senators
+1903,170.4,Chicago Cubs
+1903,170.4,Boston Beaneaters
+1903,168.3,New York Highlanders
+1902,179.0,Baltimore Orioles
+1902,176.4,Boston Americans
+1902,175.7,Philadelphia Athletics
+1902,174.7,Cleveland Bronchos
+1902,174.5,Boston Beaneaters
+1902,174.5,Cincinnati Reds
+1902,173.6,St. Louis Browns
+1902,173.6,Detroit Tigers
+1902,173.0,St. Louis Cardinals
+1902,172.7,Pittsburgh Pirates
+1902,172.4,New York Giants
+1902,172.4,Washington Senators
+1902,170.9,Chicago White Sox
+1902,170.7,Philadelphia Phillies
+1902,170.4,Brooklyn Superbas
+1902,169.5,Chicago Orphans
+1901,176.0,Pittsburgh Pirates
+1901,175.9,Baltimore Orioles
+1901,175.8,Chicago White Sox
+1901,174.3,Brooklyn Superbas
+1901,174.0,Cincinnati Reds
+1901,173.3,Detroit Tigers
+1901,173.0,St. Louis Cardinals
+1901,172.6,Boston Americans
+1901,171.9,Boston Beaneaters
+1901,171.7,Philadelphia Phillies
+1901,170.9,Chicago Orphans
+1901,170.7,Cleveland Blues
+1901,169.4,Philadelphia Athletics
+1901,167.3,Milwaukee Brewers
+1901,165.5,New York Giants
+1901,164.9,Washington Senators
+1900,177.2,Philadelphia Phillies
+1900,174.1,Chicago Orphans
+1900,173.7,Pittsburgh Pirates
+1900,173.2,St. Louis Cardinals
+1900,171.8,Brooklyn Superbas
+1900,171.6,New York Giants
+1900,169.8,Boston Beaneaters
+1900,169.6,Cincinnati Reds
+1899,175.1,Baltimore Orioles
+1899,174.3,Brooklyn Superbas
+1899,173.9,Philadelphia Phillies
+1899,173.8,Chicago Orphans
+1899,172.5,Cincinnati Reds
+1899,171.8,Cleveland Spiders
+1899,171.4,Boston Beaneaters
+1899,171.3,Pittsburgh Pirates
+1899,169.9,St. Louis Perfectos
+1899,169.5,Louisville Colonels
+1899,168.1,New York Giants
+1899,167.6,Washington Senators
+1898,179.1,Chicago Orphans
+1898,176.7,Philadelphia Phillies
+1898,173.2,Washington Senators
+1898,173.1,Pittsburgh Pirates
+1898,173.1,Cleveland Spiders
+1898,172.1,New York Giants
+1898,170.9,St. Louis Browns
+1898,170.9,Boston Beaneaters
+1898,170.5,Baltimore Orioles
+1898,168.9,Louisville Colonels
+1898,168.9,Brooklyn Bridegrooms
+1898,166.6,Cincinnati Reds
+1897,178.2,Chicago Colts
+1897,175.5,Philadelphia Phillies
+1897,174.7,Washington Senators
+1897,174.1,New York Giants
+1897,174.0,St. Louis Browns
+1897,173.5,Pittsburgh Pirates
+1897,172.5,Cleveland Spiders
+1897,172.5,Louisville Colonels
+1897,171.5,Boston Beaneaters
+1897,169.3,Cincinnati Reds
+1897,168.3,Baltimore Orioles
+1897,167.9,Brooklyn Bridegrooms
+1896,177.1,Chicago Colts
+1896,176.5,New York Giants
+1896,175.7,Philadelphia Phillies
+1896,173.4,Pittsburgh Pirates
+1896,171.6,Washington Senators
+1896,171.6,Cleveland Spiders
+1896,170.9,St. Louis Browns
+1896,169.2,Baltimore Orioles
+1896,169.0,Brooklyn Bridegrooms
+1896,168.3,Boston Beaneaters
+1896,166.9,Cincinnati Reds
+1896,165.8,Louisville Colonels
+1895,177.0,Chicago Colts
+1895,175.7,Philadelphia Phillies
+1895,175.0,Cleveland Spiders
+1895,172.9,Baltimore Orioles
+1895,172.3,Brooklyn Grooms
+1895,172.0,Louisville Colonels
+1895,171.9,St. Louis Browns
+1895,170.1,New York Giants
+1895,168.0,Washington Senators
+1895,166.8,Cincinnati Reds
+1895,165.6,Pittsburgh Pirates
+1895,164.4,Boston Beaneaters
+1894,174.5,Baltimore Orioles
+1894,174.3,Chicago Colts
+1894,174.1,Cleveland Spiders
+1894,174.0,Louisville Colonels
+1894,173.1,Washington Senators
+1894,171.6,Brooklyn Grooms
+1894,171.3,New York Giants
+1894,171.2,Philadelphia Phillies
+1894,169.0,Pittsburgh Pirates
+1894,168.3,St. Louis Browns
+1894,164.9,Boston Beaneaters
+1894,163.3,Cincinnati Reds
+1893,177.3,Louisville Colonels
+1893,175.5,Baltimore Orioles
+1893,174.8,Philadelphia Phillies
+1893,174.7,Pittsburgh Pirates
+1893,174.1,Washington Senators
+1893,173.8,Cleveland Spiders
+1893,173.2,New York Giants
+1893,171.2,Chicago Colts
+1893,171.1,St. Louis Browns
+1893,169.6,Brooklyn Grooms
+1893,169.0,Boston Beaneaters
+1893,165.3,Cincinnati Reds
+1892,177.9,Philadelphia Phillies
+1892,176.4,Pittsburgh Pirates
+1892,172.1,Chicago Colts
+1892,171.5,Brooklyn Grooms
+1892,171.3,Louisville Colonels
+1892,171.1,Cleveland Spiders
+1892,171.0,Washington Senators
+1892,170.7,Cincinnati Reds
+1892,170.2,Baltimore Orioles
+1892,170.0,St. Louis Browns
+1892,169.5,New York Giants
+1892,167.7,Boston Beaneaters
+1891,178.0,New York Giants
+1891,176.8,Pittsburgh Pirates
+1891,175.2,Cincinnati Reds
+1891,173.9,Washington Statesmen
+1891,172.9,Philadelphia Phillies
+1891,172.6,Milwaukee Brewers
+1891,172.6,Chicago Colts
+1891,171.5,Louisville Colonels
+1891,171.5,Columbus Solons
+1891,171.1,Philadelphia Athletics
+1891,170.4,Baltimore Orioles
+1891,169.6,Cleveland Spiders
+1891,168.1,Boston Beaneaters
+1891,167.5,St. Louis Browns
+1891,166.9,Cincinnati Kelly's Killers
+1891,166.6,Brooklyn Grooms
+1891,166.1,Boston Reds
+1890,177.1,Pittsburgh Burghers
+1890,175.9,New York Giants
+1890,174.2,Toledo Maumees
+1890,173.7,Chicago Pirates
+1890,173.5,Chicago Colts
+1890,173.2,Cleveland Spiders
+1890,172.8,Baltimore Orioles
+1890,171.1,Columbus Solons
+1890,170.9,Philadelphia Phillies
+1890,169.6,Buffalo Bisons
+1890,169.6,St. Louis Browns
+1890,169.4,Brooklyn Ward's Wonders
+1890,168.8,Brooklyn Bridegrooms
+1890,168.5,Louisville Colonels
+1890,168.1,Syracuse Stars
+1890,167.9,Pittsburg Alleghenys
+1890,167.9,Cincinnati Reds
+1890,167.6,Philadelphia Athletics
+1890,167.4,Cleveland Infants
+1890,167.3,Brooklyn Gladiators
+1890,167.2,Rochester Broncos
+1890,166.6,Boston Reds
+1890,166.6,Boston Beaneaters
+1889,178.8,Chicago White Stockings
+1889,178.4,Columbus Solons
+1889,177.7,Philadelphia Quakers
+1889,177.6,New York Giants
+1889,174.4,Louisville Colonels
+1889,172.7,Indianapolis Hoosiers
+1889,170.1,Pittsburg Alleghenys
+1889,170.0,St. Louis Browns
+1889,168.9,Brooklyn Bridegrooms
+1889,168.3,Washington Nationals
+1889,168.1,Cleveland Spiders
+1889,168.0,Cincinnati Red Stockings
+1889,167.8,Kansas City Cowboys
+1889,167.8,Philadelphia Athletics
+1889,167.1,Baltimore Orioles
+1889,165.2,Boston Beaneaters
+1888,178.9,Chicago White Stockings
+1888,178.5,New York Giants
+1888,174.1,Pittsburg Alleghenys
+1888,173.9,Brooklyn Bridegrooms
+1888,173.6,Philadelphia Quakers
+1888,171.9,Cleveland Blues
+1888,171.4,Indianapolis Hoosiers
+1888,170.7,Kansas City Cowboys
+1888,170.6,Louisville Colonels
+1888,169.6,Detroit Wolverines
+1888,169.3,Baltimore Orioles
+1888,168.8,St. Louis Browns
+1888,168.4,Cincinnati Red Stockings
+1888,167.6,Washington Nationals
+1888,167.5,Philadelphia Athletics
+1888,163.3,Boston Beaneaters
+1887,175.3,Pittsburg Alleghenys
+1887,174.4,Brooklyn Grays
+1887,173.9,Detroit Wolverines
+1887,171.8,New York Metropolitans
+1887,171.4,New York Giants
+1887,171.4,Baltimore Orioles
+1887,171.0,Philadelphia Quakers
+1887,170.5,Cincinnati Red Stockings
+1887,170.0,Philadelphia Athletics
+1887,169.6,Chicago White Stockings
+1887,169.1,Louisville Colonels
+1887,166.5,Cleveland Blues
+1887,166.5,Indianapolis Hoosiers
+1887,166.1,St. Louis Browns
+1887,165.8,Washington Nationals
+1887,163.0,Boston Beaneaters
+1886,177.7,Brooklyn Grays
+1886,177.7,New York Metropolitans
+1886,176.9,Chicago White Stockings
+1886,174.2,Cincinnati Red Stockings
+1886,173.8,Pittsburg Alleghenys
+1886,172.5,Philadelphia Quakers
+1886,171.6,Detroit Wolverines
+1886,171.2,Baltimore Orioles
+1886,171.0,St. Louis Maroons
+1886,170.5,Philadelphia Athletics
+1886,169.9,St. Louis Browns
+1886,169.8,Louisville Colonels
+1886,169.5,Kansas City Cowboys
+1886,169.4,New York Giants
+1886,163.5,Boston Beaneaters
+1886,160.5,Washington Nationals
+1885,176.6,Chicago White Stockings
+1885,176.5,Brooklyn Grays
+1885,173.4,Louisville Colonels
+1885,172.4,Pittsburg Alleghenys
+1885,171.8,New York Giants
+1885,171.4,Cincinnati Red Stockings
+1885,171.0,Baltimore Orioles
+1885,170.7,Philadelphia Quakers
+1885,169.4,St. Louis Browns
+1885,169.4,Providence Grays
+1885,169.1,Buffalo Bisons
+1885,168.9,Detroit Wolverines
+1885,168.9,St. Louis Maroons
+1885,168.8,New York Metropolitans
+1885,168.1,Philadelphia Athletics
+1885,164.7,Boston Beaneaters
+1884,177.4,Cleveland Blues
+1884,176.4,Cincinnati Red Stockings
+1884,175.7,Columbus Buckeyes
+1884,174.5,Chicago White Stockings
+1884,174.1,St. Louis Maroons
+1884,173.7,New York Gothams
+1884,173.6,Boston Reds
+1884,173.0,Milwaukee Brewers
+1884,172.7,Cincinnati Outlaw Reds
+1884,171.8,Baltimore Orioles
+1884,171.6,New York Metropolitans
+1884,171.0,Indianapolis Hoosiers
+1884,169.8,Buffalo Bisons
+1884,169.6,Louisville Eclipse
+1884,169.1,Philadelphia Keystones
+1884,168.9,Philadelphia Athletics
+1884,168.9,Wilmington Quicksteps
+1884,168.9,Philadelphia Quakers
+1884,168.5,Brooklyn Atlantics
+1884,168.4,Richmond Virginians
+1884,168.3,Pittsburg Alleghenys
+1884,166.8,Altoona Mountain City
+1884,166.3,St. Louis Browns
+1884,165.8,Chicago/Pittsburgh (Union League)
+1884,165.7,Washington Nationals
+1884,164.9,Kansas City Cowboys
+1884,164.6,Detroit Wolverines
+1884,164.3,Toledo Blue Stockings
+1884,164.1,Baltimore Monumentals
+1884,161.7,Boston Beaneaters
+1884,161.6,Providence Grays
+1884,160.9,St. Paul White Caps
+1883,184.7,New York Metropolitans
+1883,179.5,Chicago White Stockings
+1883,178.8,New York Gothams
+1883,175.6,Columbus Buckeyes
+1883,174.7,Cleveland Blues
+1883,174.3,Louisville Eclipse
+1883,172.5,Buffalo Bisons
+1883,172.3,Cincinnati Red Stockings
+1883,171.3,Pittsburg Alleghenys
+1883,171.0,Baltimore Orioles
+1883,170.9,Philadelphia Quakers
+1883,169.7,Boston Beaneaters
+1883,168.2,St. Louis Browns
+1883,164.7,Detroit Wolverines
+1883,164.7,Philadelphia Athletics
+1883,164.2,Providence Grays
+1882,181.8,Troy Trojans
+1882,175.9,Cleveland Blues
+1882,175.2,Pittsburg Alleghenys
+1882,173.8,Chicago White Stockings
+1882,173.7,Buffalo Bisons
+1882,172.9,Louisville Eclipse
+1882,170.5,Cincinnati Red Stockings
+1882,169.7,Worcester Ruby Legs
+1882,168.6,Philadelphia Athletics
+1882,167.7,Detroit Wolverines
+1882,163.2,St. Louis Brown Stockings
+1882,162.8,Providence Grays
+1882,162.8,Baltimore Orioles
+1882,161.0,Boston Red Caps
+1881,178.4,Cleveland Blues
+1881,175.6,Troy Trojans
+1881,175.1,Chicago White Stockings
+1881,174.1,Buffalo Bisons
+1881,171.7,Detroit Wolverines
+1881,165.5,Worcester Ruby Legs
+1881,164.7,Providence Grays
+1881,160.3,Boston Red Caps
+1880,174.2,Troy Trojans
+1880,171.7,Chicago White Stockings
+1880,169.4,Boston Red Caps
+1880,168.8,Cleveland Blues
+1880,167.9,Providence Grays
+1880,167.7,Cincinnati Reds
+1880,164.6,Buffalo Bisons
+1880,161.5,Worcester Ruby Legs
+1879,182.4,Chicago White Stockings
+1879,168.8,Syracuse Stars
+1879,168.1,Troy Trojans
+1879,167.9,Providence Grays
+1879,166.9,Cleveland Blues
+1879,165.8,Buffalo Bisons
+1879,163.7,Boston Red Caps
+1879,163.6,Cincinnati Reds
+1878,173.8,Indianapolis Blues
+1878,172.1,Chicago White Stockings
+1878,170.3,Milwaukee Grays
+1878,164.5,Cincinnati Reds
+1878,164.0,Providence Grays
+1878,161.4,Boston Red Caps
+1877,172.7,Chicago White Stockings
+1877,165.7,Louisville Grays
+1877,164.9,St. Louis Brown Stockings
+1877,164.8,Boston Red Caps
+1877,162.5,Hartford Dark Blues
+1877,161.2,Cincinnati Reds
+1876,174.9,Chicago White Stockings
+1876,168.1,Louisville Grays
+1876,165.4,Cincinnati Reds
+1876,162.4,St. Louis Brown Stockings
+1876,161.6,New York Mutuals
+1876,160.1,Hartford Dark Blues
+1876,158.3,Boston Red Caps
+1876,157.1,Philadelphia Athletics
+1875,167.3,Keokuk Westerns
+1875,163.8,New Haven Elm Citys
+1875,163.7,Chicago White Stockings
+1875,163.4,Philadelphia Centennials
+1875,163.3,New York Mutuals
+1875,163.1,Philadelphia Athletics
+1875,163.0,St. Louis Red Stockings
+1875,162.1,Brooklyn Atlantics
+1875,161.8,Boston Red Stockings
+1875,161.2,St. Louis Brown Stockings
+1875,160.5,Hartford Dark Blues
+1875,160.3,Philadelphia Whites
+1875,157.2,Washington Nationals
+1874,170.0,Hartford Dark Blues
+1874,161.6,Philadelphia Athletics
+1874,160.7,Chicago White Stockings
+1874,160.6,Brooklyn Atlantics
+1874,159.0,Boston Red Stockings
+1874,158.9,Baltimore Canaries
+1874,158.8,Philadelphia Whites
+1874,158.8,New York Mutuals
+1873,173.5,Brooklyn Atlantics
+1873,165.8,Philadelphia Athletics
+1873,161.2,New York Mutuals
+1873,161.0,Boston Red Stockings
+1873,160.5,Washington Blue Legs
+1873,158.5,Philadelphia Whites
+1873,157.1,Elizabeth Resolutes
+1873,153.7,Baltimore Marylands
+1873,151.3,Baltimore Canaries
+1872,171.3,Middletown Mansfields
+1872,169.1,New York Mutuals
+1872,166.4,Washington Nationals
+1872,164.4,Brooklyn Atlantics
+1872,162.5,Cleveland Forest Citys
+1872,159.9,Philadelphia Athletics
+1872,158.5,Boston Red Stockings
+1872,156.3,Troy Haymakers
+1872,154.2,Baltimore Canaries
+1872,153.1,Brooklyn Eckfords
+1872,152.9,Washington Olympics
+1871,165.8,Rockford Forest Citys
+1871,159.9,New York Mutuals
+1871,158.8,Chicago White Stockings
+1871,156.4,Boston Red Stockings
+1871,156.1,Cleveland Forest Citys
+1871,154.9,Washington Olympics
+1871,154.8,Philadelphia Athletics
+1871,154.4,Troy Haymakers
+1871,153.5,Fort Wayne Kekiongas
