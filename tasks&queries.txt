@@ -1,2 +1,12 @@
 1. Finding a team with the highest average weight of its batters on a given year(Heaviest Hitters):
 
+SELECT  
+batting.yearid AS "year", 
+ROUND(AVG(people.weight),1) AS "average weight",
+teams.name AS "team"
+FROM people
+JOIN batting ON people.playerID = batting.playerid
+JOIN teams ON batting.team_id = teams.name
+GROUP BY 3
+ORDER BY 1 DESC, 2 DESC;
+
